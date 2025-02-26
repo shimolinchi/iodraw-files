@@ -170,7 +170,10 @@
           <mxGeometry x="630" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mRiyItWHZV-jTITEQ12F-28" value="&lt;div style=&quot;padding-top: 10px; margin-top: 0px; margin-bottom: 130px;&quot;&gt;&lt;span style=&quot;font-size: 20px; color: rgb(8, 8, 8); background-color: initial;&quot;&gt;One-to-many Head&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#663300;align=center;" vertex="1" parent="1">
-          <mxGeometry x="980" y="325" width="250" height="255" as="geometry" />
+          <mxGeometry x="980" y="325" width="240" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="mRiyItWHZV-jTITEQ12F-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
