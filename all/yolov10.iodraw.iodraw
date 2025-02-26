@@ -890,6 +890,9 @@
         <mxCell id="zWnWDPcDZEXdmk-So9-S-243" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;RPN/P6&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="8.120000000000005" y="275" width="83.75" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zWnWDPcDZEXdmk-So9-S-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zWnWDPcDZEXdmk-So9-S-244" target="zWnWDPcDZEXdmk-So9-S-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-244" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;RPN/P5&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="438.12" y="282.5" width="83.75" height="40" as="geometry" />
         </mxCell>
