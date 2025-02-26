@@ -21,6 +21,9 @@
         <mxCell id="W5ABUBR6vkYehFK-59Cc-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="W5ABUBR6vkYehFK-59Cc-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;C2f&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
