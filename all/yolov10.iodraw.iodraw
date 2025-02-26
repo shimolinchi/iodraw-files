@@ -222,7 +222,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mRiyItWHZV-jTITEQ12F-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Regression&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="mRiyItWHZV-jTITEQ12F-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Regression&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1110" y="305" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRiyItWHZV-jTITEQ12F-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Classification&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;" vertex="1" parent="1">
@@ -265,7 +265,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mRiyItWHZV-jTITEQ12F-65" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Regression&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="mRiyItWHZV-jTITEQ12F-65" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Regression&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1110" y="445" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRiyItWHZV-jTITEQ12F-66" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Classification&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;" vertex="1" parent="1">
@@ -314,7 +314,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mRiyItWHZV-jTITEQ12F-85" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Regression&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="mRiyItWHZV-jTITEQ12F-85" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Regression&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1110" y="597" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRiyItWHZV-jTITEQ12F-86" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Classification&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;" vertex="1" parent="1">
