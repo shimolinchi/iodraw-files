@@ -176,10 +176,20 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1263.75" y="240" as="targetPoint" />
             <mxPoint x="1138.75" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1139" y="211" />
+              <mxPoint x="1230" y="211" />
+              <mxPoint x="1230" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mRiyItWHZV-jTITEQ12F-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Regression&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="1000" y="195" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRiyItWHZV-jTITEQ12F-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mRiyItWHZV-jTITEQ12F-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mRiyItWHZV-jTITEQ12F-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Classification&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="1001.25" y="241.25" width="142.5" height="33.75" as="geometry" />
