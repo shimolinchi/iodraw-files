@@ -1031,7 +1031,11 @@
         </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-337" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zWnWDPcDZEXdmk-So9-S-320">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="820" as="targetPoint" />
+            <mxPoint x="1080" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="999" y="800" />
+              <mxPoint x="1080" y="800" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-320" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Classification&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
