@@ -793,7 +793,10 @@
           <mxGeometry x="1140" y="120" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-217" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="890" y="60" width="60" height="50" as="geometry" />
+          <mxGeometry x="1051.87" y="120" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zWnWDPcDZEXdmk-So9-S-218" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SUM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="868.12" y="120" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
