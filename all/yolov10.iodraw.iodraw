@@ -384,11 +384,6 @@
             <mxPoint x="2090" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zWnWDPcDZEXdmk-So9-S-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zWnWDPcDZEXdmk-So9-S-99" target="zWnWDPcDZEXdmk-So9-S-99">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1955" y="1060" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-99" value="One-to-one Head" style="rounded=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#663300;align=center;spacingLeft=0;spacingRight=180;spacingBottom=50;spacingTop=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1820" y="1080" width="270" height="100" as="geometry" />
         </mxCell>
@@ -904,6 +899,9 @@
         </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-273" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Upsample&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="685.62" y="370" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zWnWDPcDZEXdmk-So9-S-287" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="900" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
