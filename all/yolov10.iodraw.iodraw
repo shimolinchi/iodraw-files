@@ -624,11 +624,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mRiyItWHZV-jTITEQ12F-186" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mRiyItWHZV-jTITEQ12F-186" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="mRiyItWHZV-jTITEQ12F-187">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="100" as="sourcePoint" />
             <mxPoint x="370" y="100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mRiyItWHZV-jTITEQ12F-187" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;opacity=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="70.00000000000006" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
