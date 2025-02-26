@@ -26,7 +26,7 @@
             <mxPoint x="60.285714285714334" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W5ABUBR6vkYehFK-59Cc-8" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;C2f&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#663300;" vertex="1" parent="1">
+        <mxCell id="W5ABUBR6vkYehFK-59Cc-8" value="&lt;font color=&quot;#080808&quot; style=&quot;font-size: 20px;&quot;&gt;C2f&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#663300;" vertex="1" parent="1">
           <mxGeometry y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
