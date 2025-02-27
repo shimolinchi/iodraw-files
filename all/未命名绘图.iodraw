@@ -23,13 +23,13 @@
         <mxCell id="wpjpDl8GTuIBWps_mF9U-6" value="0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="330" y="670" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wpjpDl8GTuIBWps_mF9U-7" value="*" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="wpjpDl8GTuIBWps_mF9U-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="350" y="670" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpjpDl8GTuIBWps_mF9U-8" value="0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="380" y="670" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wpjpDl8GTuIBWps_mF9U-9" value="*" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="wpjpDl8GTuIBWps_mF9U-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="400" y="670" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpjpDl8GTuIBWps_mF9U-10" value="0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
@@ -41,13 +41,13 @@
         <mxCell id="wpjpDl8GTuIBWps_mF9U-13" value="0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="430" y="670" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wpjpDl8GTuIBWps_mF9U-14" value="*" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="wpjpDl8GTuIBWps_mF9U-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="450" y="670" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpjpDl8GTuIBWps_mF9U-15" value="0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="530" y="670" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wpjpDl8GTuIBWps_mF9U-16" value="*" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="wpjpDl8GTuIBWps_mF9U-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="550" y="670" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpjpDl8GTuIBWps_mF9U-17" value="0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
@@ -59,13 +59,13 @@
         <mxCell id="wpjpDl8GTuIBWps_mF9U-19" value="0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="480" y="670" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wpjpDl8GTuIBWps_mF9U-20" value="*" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="wpjpDl8GTuIBWps_mF9U-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="500" y="670" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wpjpDl8GTuIBWps_mF9U-21" value="0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="630" y="670" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wpjpDl8GTuIBWps_mF9U-22" value="*" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="wpjpDl8GTuIBWps_mF9U-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="650" y="670" width="20" height="40" as="geometry" />
         </mxCell>
       </root>
