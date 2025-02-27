@@ -850,8 +850,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGY9QPZjVFNNFfFeUs2B-10" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="420" width="200" height="200" as="geometry" />
+        <mxCell id="xGY9QPZjVFNNFfFeUs2B-10" value="" style="swimlane;startSize=0;textOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-340" width="1920" height="1220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
