@@ -58,7 +58,7 @@
         <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Toxicity&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Classifier&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="350" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Word&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Blocking&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Pornography&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Classfier&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="420" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Word&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Blocking&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
