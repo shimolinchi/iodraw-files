@@ -58,8 +58,8 @@
         <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-20" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Domain&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Blocking&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="210" width="145" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Domain&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Blocking&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="280" width="150" height="50" as="geometry" />
+        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Word&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Blocking&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="270" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
