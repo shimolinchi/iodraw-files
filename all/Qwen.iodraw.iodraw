@@ -293,12 +293,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6K747Bv1erPtJrk9Avr--71" value="and videos here" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="201.25157894736844" as="geometry">
+          <mxGeometry x="161.25157894736844" y="10" as="geometry">
             <mxPoint x="-6" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6K747Bv1erPtJrk9Avr--72" value="Images and vides here" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="161.25157894736844" y="160" as="geometry">
+          <mxGeometry x="150.00157894736844" y="160" as="geometry">
             <mxPoint x="24" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
