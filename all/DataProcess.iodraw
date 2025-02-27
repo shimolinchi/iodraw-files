@@ -37,7 +37,7 @@
         <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Formatting&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;spacingBottom=294;" vertex="1" parent="1">
           <mxGeometry x="560" y="150" width="200" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-13" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Language&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Identification&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-13" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;MinHash&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Deduplication&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="320" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
