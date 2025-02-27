@@ -76,6 +76,11 @@
         <mxCell id="MKAc9sRaMhb7BeowB8vv-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;x1,x2,...xn&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="430" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MKAc9sRaMhb7BeowB8vv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MKAc9sRaMhb7BeowB8vv-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340.16666666666674" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MKAc9sRaMhb7BeowB8vv-18" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;y1,y2,...y&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;n&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="430" width="140" height="40" as="geometry" />
         </mxCell>
@@ -102,6 +107,9 @@
           <mxGeometry x="130.0000000000001" y="419.98857142857145" as="geometry">
             <mxPoint x="6" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MKAc9sRaMhb7BeowB8vv-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Actor Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="270" y="530" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
