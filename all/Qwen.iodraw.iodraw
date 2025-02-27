@@ -10,13 +10,13 @@
         <mxCell id="1wUfWnqzJNiD4op6Y48k-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="430" width="340" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="KNzcIYzypGB52j9U_4b6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1wUfWnqzJNiD4op6Y48k-35">
+        <mxCell id="KNzcIYzypGB52j9U_4b6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="1wUfWnqzJNiD4op6Y48k-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="517.75" y="240" as="sourcePoint" />
             <mxPoint x="517.25" y="219.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KNzcIYzypGB52j9U_4b6-2" value="Native Resolution Input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KNzcIYzypGB52j9U_4b6-1">
+        <mxCell id="KNzcIYzypGB52j9U_4b6-2" value="Native Resolution Input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KNzcIYzypGB52j9U_4b6-1" vertex="1" connectable="0">
           <mxGeometry x="-0.5082" y="-1" relative="1" as="geometry">
             <mxPoint x="61" as="offset" />
           </mxGeometry>
@@ -147,7 +147,7 @@
             <mxPoint x="-14" y="268" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KNzcIYzypGB52j9U_4b6-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.001;entryY=0.19;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1wUfWnqzJNiD4op6Y48k-35" target="1wUfWnqzJNiD4op6Y48k-16">
+        <mxCell id="KNzcIYzypGB52j9U_4b6-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.001;entryY=0.19;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1wUfWnqzJNiD4op6Y48k-35" target="1wUfWnqzJNiD4op6Y48k-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="180" as="sourcePoint" />
             <mxPoint x="730" y="200" as="targetPoint" />
