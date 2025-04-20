@@ -120,8 +120,8 @@
         <mxCell id="UR7LgHiwPMN-FwfnN95l-60" value="T&lt;sub&gt;dn&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="232.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UR7LgHiwPMN-FwfnN95l-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="UR7LgHiwPMN-FwfnN95l-61" value="机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="100" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
