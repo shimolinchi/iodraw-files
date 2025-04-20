@@ -13,7 +13,7 @@
         <mxCell id="Qrqektu_ADZXjKuY3dbr-3" value="关节驱动变量（n维）&lt;div&gt;\tau=[\tau&lt;sub&gt;1&lt;/sub&gt;,...,\tau&lt;sub&gt;n&lt;/sub&gt;]^T&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qrqektu_ADZXjKuY3dbr-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=0;" edge="1" parent="1" source="Qrqektu_ADZXjKuY3dbr-3" target="Qrqektu_ADZXjKuY3dbr-2">
+        <mxCell id="Qrqektu_ADZXjKuY3dbr-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=1;endSize=4;startSize=4;sourcePerimeterSpacing=2;" edge="1" parent="1" source="Qrqektu_ADZXjKuY3dbr-3" target="Qrqektu_ADZXjKuY3dbr-2">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="280" y="230" as="sourcePoint" />
             <mxPoint x="380" y="130" as="targetPoint" />
