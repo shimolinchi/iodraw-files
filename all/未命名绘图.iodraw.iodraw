@@ -52,7 +52,7 @@
             <mxPoint x="395" y="139.76999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qrqektu_ADZXjKuY3dbr-13" value="静力学" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Qrqektu_ADZXjKuY3dbr-13" value="运动学" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qrqektu_ADZXjKuY3dbr-14" value="静力学" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
