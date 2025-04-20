@@ -11,7 +11,7 @@
           <mxGeometry x="175" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qrqektu_ADZXjKuY3dbr-3" value="关节运动状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="175" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
