@@ -10,7 +10,7 @@
         <mxCell id="Qrqektu_ADZXjKuY3dbr-2" value="关节运动状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qrqektu_ADZXjKuY3dbr-3" value="关节运动状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qrqektu_ADZXjKuY3dbr-3" value="关节驱动变量（n维）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
