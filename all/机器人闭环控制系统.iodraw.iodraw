@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="DZPm_78TNNHzYrX5mJIM">
-    <mxGraphModel dx="167" dy="110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="94" dy="62" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,7 @@
           <mxGeometry x="570" y="165" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UR7LgHiwPMN-FwfnN95l-62" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;关节1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="187.5" width="40" height="25" as="geometry" />
+          <mxGeometry x="580" y="190" width="40" height="25" as="geometry" />
         </mxCell>
         <mxCell id="UR7LgHiwPMN-FwfnN95l-63" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;关节n&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="237.5" width="40" height="25" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UR7LgHiwPMN-FwfnN95l-68" value="T&lt;sub&gt;n&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="540" y="223" width="40" height="30" as="geometry" />
+          <mxGeometry x="530" y="223" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UR7LgHiwPMN-FwfnN95l-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UR7LgHiwPMN-FwfnN95l-71" target="UR7LgHiwPMN-FwfnN95l-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
