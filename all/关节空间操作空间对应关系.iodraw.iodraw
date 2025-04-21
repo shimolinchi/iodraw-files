@@ -10,7 +10,7 @@
         <mxCell id="Qrqektu_ADZXjKuY3dbr-2" value="关节运动状态（n维）&lt;div&gt;（q，\dot q \ddot q）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="175" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qrqektu_ADZXjKuY3dbr-3" value="\(关节驱动变量（n维）&lt;div&gt;\tau=[\tau&lt;span style=&quot;font-size: 10px;&quot;&gt;_1&lt;/span&gt;,...,\tau&lt;span style=&quot;font-size: 10px;&quot;&gt;_n&lt;/span&gt;]^T\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Qrqektu_ADZXjKuY3dbr-3" value="\(关节驱动变量（n维）&lt;span style=&quot;background-color: initial;&quot;&gt;\tau=[\tau&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;_1&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;,...,\tau&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;_n&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;]^T\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="175" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qrqektu_ADZXjKuY3dbr-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=1;endSize=4;startSize=4;sourcePerimeterSpacing=2;" parent="1" source="Qrqektu_ADZXjKuY3dbr-3" target="Qrqektu_ADZXjKuY3dbr-2" edge="1">
