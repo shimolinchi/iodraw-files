@@ -55,9 +55,6 @@
         <mxCell id="Qrqektu_ADZXjKuY3dbr-13" value="运动学" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ffxQkvER7Kl-5h5sargF-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qrqektu_ADZXjKuY3dbr-14" target="Qrqektu_ADZXjKuY3dbr-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Qrqektu_ADZXjKuY3dbr-14" value="静力学" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="220" width="60" height="30" as="geometry" />
         </mxCell>
