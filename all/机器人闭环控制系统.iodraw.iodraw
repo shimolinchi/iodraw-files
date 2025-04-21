@@ -155,8 +155,10 @@
         <mxCell id="UR7LgHiwPMN-FwfnN95l-66" value="T&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="530" y="177.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UR7LgHiwPMN-FwfnN95l-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.316;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UR7LgHiwPMN-FwfnN95l-52" target="UR7LgHiwPMN-FwfnN95l-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UR7LgHiwPMN-FwfnN95l-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UR7LgHiwPMN-FwfnN95l-52" target="UR7LgHiwPMN-FwfnN95l-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UR7LgHiwPMN-FwfnN95l-68" value="T&lt;sub&gt;n&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="530" y="223" width="40" height="30" as="geometry" />
