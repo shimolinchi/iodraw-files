@@ -66,8 +66,11 @@
         <mxCell id="IUYcdk-fmHTazkoznywC-23" value="关节检测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="318" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IUYcdk-fmHTazkoznywC-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="318" width="50" height="30" as="geometry" />
+        <mxCell id="IUYcdk-fmHTazkoznywC-24" value="关节状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="318" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IUYcdk-fmHTazkoznywC-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="288" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
