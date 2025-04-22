@@ -122,8 +122,8 @@
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-36" value="\(\ddot q_d\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="150" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jolu1AQOTtLudmt7k678-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="108" width="50" height="30" as="geometry" />
+        <mxCell id="Jolu1AQOTtLudmt7k678-1" value="多关节线形解耦控制框图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="108" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
