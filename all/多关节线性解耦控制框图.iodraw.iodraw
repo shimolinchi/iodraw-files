@@ -8,13 +8,16 @@
           <mxGeometry x="130" y="150" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-2" value="关节反馈&lt;div&gt;控制(PD)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="180" width="60" height="40" as="geometry" />
+          <mxGeometry x="180" y="180" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-3" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="190" width="20" height="20" as="geometry" />
+          <mxGeometry x="260" y="190" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-4" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="140" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7YgWJM_JgHOVLqAf1tnv-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;解耦系统的伺服控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="160" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
