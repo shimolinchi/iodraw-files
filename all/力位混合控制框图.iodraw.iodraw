@@ -55,6 +55,9 @@
         <mxCell id="Mek2ABqqFeBoHhYxGBii-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mek2ABqqFeBoHhYxGBii-9" target="Mek2ABqqFeBoHhYxGBii-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Mek2ABqqFeBoHhYxGBii-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mek2ABqqFeBoHhYxGBii-9" target="Mek2ABqqFeBoHhYxGBii-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mek2ABqqFeBoHhYxGBii-9" value="机&lt;div&gt;器&lt;/div&gt;&lt;div&gt;人&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="275" width="30" height="55" as="geometry" />
         </mxCell>
@@ -66,6 +69,9 @@
             <mxPoint x="90" y="360" as="sourcePoint" />
             <mxPoint x="140" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Mek2ABqqFeBoHhYxGBii-26" value="\(X_e\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="188" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
