@@ -11,7 +11,10 @@
           <mxGeometry x="120" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lFSi0qnVKORRMmmTk0bY-3" value="机器人&lt;div&gt;系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="320" width="50" height="50" as="geometry" />
+          <mxGeometry x="350" y="300" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lFSi0qnVKORRMmmTk0bY-4" value="关节传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
