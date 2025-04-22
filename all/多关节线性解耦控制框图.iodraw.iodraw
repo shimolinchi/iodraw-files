@@ -113,6 +113,9 @@
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-33" value="\(q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="230" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7YgWJM_JgHOVLqAf1tnv-34" value="\(\tau_c&#39;\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="108" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
