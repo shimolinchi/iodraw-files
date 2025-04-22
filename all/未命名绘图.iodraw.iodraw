@@ -33,7 +33,7 @@
         <mxCell id="IUYcdk-fmHTazkoznywC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IUYcdk-fmHTazkoznywC-9" target="IUYcdk-fmHTazkoznywC-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IUYcdk-fmHTazkoznywC-9" value="关节&lt;div&gt;1～n&lt;div&gt;控制器&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IUYcdk-fmHTazkoznywC-9" value="关节&lt;div&gt;1～n&lt;div&gt;控制器&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="220" y="233.75" width="50" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="IUYcdk-fmHTazkoznywC-10" value="关节&lt;div&gt;1～n&lt;div&gt;驱动器&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -54,7 +54,7 @@
         <mxCell id="IUYcdk-fmHTazkoznywC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.039;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IUYcdk-fmHTazkoznywC-10" target="IUYcdk-fmHTazkoznywC-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IUYcdk-fmHTazkoznywC-19" value="逆&lt;div&gt;运动学&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IUYcdk-fmHTazkoznywC-19" value="逆&lt;div&gt;运动学&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="140" y="220" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IUYcdk-fmHTazkoznywC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IUYcdk-fmHTazkoznywC-20" target="IUYcdk-fmHTazkoznywC-6">
