@@ -25,11 +25,17 @@
         <mxCell id="Mek2ABqqFeBoHhYxGBii-8" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="330" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Mek2ABqqFeBoHhYxGBii-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mek2ABqqFeBoHhYxGBii-9" target="Mek2ABqqFeBoHhYxGBii-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mek2ABqqFeBoHhYxGBii-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mek2ABqqFeBoHhYxGBii-9" target="Mek2ABqqFeBoHhYxGBii-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mek2ABqqFeBoHhYxGBii-9" value="机&lt;div&gt;器&lt;/div&gt;&lt;div&gt;人&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="272.5" width="30" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Mek2ABqqFeBoHhYxGBii-10" value="环&lt;div&gt;境&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="277.5" width="30" height="52.5" as="geometry" />
+          <mxGeometry x="360" y="273.75" width="30" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
