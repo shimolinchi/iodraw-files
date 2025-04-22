@@ -29,7 +29,7 @@
           <mxGeometry x="414" y="190" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-9" value="\(h(q,\dot q) + G(q)\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="230" width="86" height="30" as="geometry" />
+          <mxGeometry x="371" y="220" width="89" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
