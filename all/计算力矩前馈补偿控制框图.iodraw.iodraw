@@ -7,8 +7,8 @@
         <mxCell id="lFSi0qnVKORRMmmTk0bY-1" value="逆动力学计算&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="240" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lFSi0qnVKORRMmmTk0bY-2" value="各关节独立伺服控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="lFSi0qnVKORRMmmTk0bY-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;各关节独立伺服控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lFSi0qnVKORRMmmTk0bY-3" value="机器人&lt;div&gt;系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="300" width="50" height="50" as="geometry" />
