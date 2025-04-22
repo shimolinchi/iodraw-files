@@ -10,8 +10,13 @@
         <mxCell id="lFSi0qnVKORRMmmTk0bY-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;各关节独立伺服控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="330" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="lFSi0qnVKORRMmmTk0bY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lFSi0qnVKORRMmmTk0bY-3" target="lFSi0qnVKORRMmmTk0bY-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lFSi0qnVKORRMmmTk0bY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lFSi0qnVKORRMmmTk0bY-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="480" y="405" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lFSi0qnVKORRMmmTk0bY-3" value="机器人&lt;div&gt;系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="310" width="50" height="50" as="geometry" />
