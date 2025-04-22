@@ -10,7 +10,7 @@
         <mxCell id="NnqEz2vOrAx-JfDBgbFr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NnqEz2vOrAx-JfDBgbFr-2" target="NnqEz2vOrAx-JfDBgbFr-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NnqEz2vOrAx-JfDBgbFr-2" value="关节控制器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NnqEz2vOrAx-JfDBgbFr-2" value="关节控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NnqEz2vOrAx-JfDBgbFr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NnqEz2vOrAx-JfDBgbFr-3">
@@ -30,13 +30,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NnqEz2vOrAx-JfDBgbFr-3" value="机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NnqEz2vOrAx-JfDBgbFr-3" value="机器人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="550" y="240" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NnqEz2vOrAx-JfDBgbFr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NnqEz2vOrAx-JfDBgbFr-4" target="NnqEz2vOrAx-JfDBgbFr-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NnqEz2vOrAx-JfDBgbFr-4" value="正运动学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NnqEz2vOrAx-JfDBgbFr-4" value="正运动学" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="445" y="290" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NnqEz2vOrAx-JfDBgbFr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NnqEz2vOrAx-JfDBgbFr-5" target="NnqEz2vOrAx-JfDBgbFr-1">
