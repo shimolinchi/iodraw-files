@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="5-dJEc-_QJT8S6js2p2u">
-    <mxGraphModel dx="239" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="121" dy="161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,10 @@
           <mxGeometry x="320" y="185" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-8" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="414" y="190" width="20" height="20" as="geometry" />
+          <mxGeometry x="394" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7YgWJM_JgHOVLqAf1tnv-9" value="\(h(q,\dot q) + G(q)\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371" y="220" width="89" height="20" as="geometry" />
+        <mxCell id="7YgWJM_JgHOVLqAf1tnv-9" value="\(h(q,\dot q) + G(q)\)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=33;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="89" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
