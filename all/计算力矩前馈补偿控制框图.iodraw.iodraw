@@ -10,10 +10,10 @@
         <mxCell id="lFSi0qnVKORRMmmTk0bY-1" value="逆动力学计算&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="240" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lFSi0qnVKORRMmmTk0bY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.875;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lFSi0qnVKORRMmmTk0bY-26" target="lFSi0qnVKORRMmmTk0bY-6">
+        <mxCell id="lFSi0qnVKORRMmmTk0bY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lFSi0qnVKORRMmmTk0bY-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="330" as="targetPoint" />
-            <mxPoint x="90" y="360" as="sourcePoint" />
+            <mxPoint x="120" y="330" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="120" y="295" />
             </Array>
