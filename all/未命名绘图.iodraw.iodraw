@@ -99,8 +99,8 @@
         <mxCell id="Ladt8LPY1Q4Q6v5qaPF--29" value="\(\tau_m\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="720" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ladt8LPY1Q4Q6v5qaPF--30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="678" width="50" height="30" as="geometry" />
+        <mxCell id="Ladt8LPY1Q4Q6v5qaPF--30" value="\(\tau_f\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="685" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
