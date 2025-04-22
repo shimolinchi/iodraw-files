@@ -7,7 +7,7 @@
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;解耦系统的伺服控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7YgWJM_JgHOVLqAf1tnv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7YgWJM_JgHOVLqAf1tnv-2" value="关节反馈&lt;div&gt;控制(PD)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
