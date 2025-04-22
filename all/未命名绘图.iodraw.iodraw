@@ -40,8 +40,11 @@
         <mxCell id="IUYcdk-fmHTazkoznywC-14" value="机器人&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="215" width="100" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="IUYcdk-fmHTazkoznywC-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IUYcdk-fmHTazkoznywC-15" value="关节&lt;div&gt;1～n&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="245" width="40" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IUYcdk-fmHTazkoznywC-16" value="关节&lt;div&gt;1～n&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="255" width="40" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
