@@ -43,13 +43,13 @@
             <mxPoint x="490" y="335.125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lFSi0qnVKORRMmmTk0bY-3" value="机器人&lt;div&gt;系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lFSi0qnVKORRMmmTk0bY-3" value="机器人&lt;div&gt;系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="310" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lFSi0qnVKORRMmmTk0bY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lFSi0qnVKORRMmmTk0bY-4" target="lFSi0qnVKORRMmmTk0bY-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lFSi0qnVKORRMmmTk0bY-4" value="关节传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lFSi0qnVKORRMmmTk0bY-4" value="关节传感器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="390" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lFSi0qnVKORRMmmTk0bY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lFSi0qnVKORRMmmTk0bY-6" target="lFSi0qnVKORRMmmTk0bY-10">
@@ -79,7 +79,7 @@
           <mxGeometry x="350" y="325" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lFSi0qnVKORRMmmTk0bY-12" value="(正动力学)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="400" width="80" height="30" as="geometry" />
+          <mxGeometry x="385" y="375" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lFSi0qnVKORRMmmTk0bY-14" value="\(q,\dot q,\ddot q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="300" width="120" height="30" as="geometry" />
