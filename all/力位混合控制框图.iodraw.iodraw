@@ -114,6 +114,9 @@
         <mxCell id="Mek2ABqqFeBoHhYxGBii-38" value="\(e_p,e_o\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Mek2ABqqFeBoHhYxGBii-39" value="\(e_F\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="368" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
