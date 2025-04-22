@@ -19,6 +19,9 @@
         <mxCell id="lFSi0qnVKORRMmmTk0bY-6" value="\(D(q_d)\ddot q_d + h(q_d,\dot q_d) + G(q_d)\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lFSi0qnVKORRMmmTk0bY-7" value="关节反馈&lt;div&gt;控制(PD)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
