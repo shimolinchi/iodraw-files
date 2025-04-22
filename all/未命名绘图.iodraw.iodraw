@@ -10,6 +10,9 @@
         <mxCell id="Ladt8LPY1Q4Q6v5qaPF--2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="740" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ladt8LPY1Q4Q6v5qaPF--3" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="745" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
