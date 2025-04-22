@@ -53,8 +53,8 @@
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-10" value="关节传感器(内传感器)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7YgWJM_JgHOVLqAf1tnv-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="248" width="50" height="30" as="geometry" />
+        <mxCell id="7YgWJM_JgHOVLqAf1tnv-14" value="(正动力学)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="240" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
