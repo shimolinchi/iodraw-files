@@ -16,8 +16,8 @@
         <mxCell id="ftEW-j5EsDLuoPWUAgk7-4" value="关节&lt;div&gt;控制器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="260" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ftEW-j5EsDLuoPWUAgk7-5" value="机器人系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="ftEW-j5EsDLuoPWUAgk7-5" value="机器人&lt;div&gt;系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
