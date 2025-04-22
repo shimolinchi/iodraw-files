@@ -28,6 +28,9 @@
         <mxCell id="Ladt8LPY1Q4Q6v5qaPF--7" value="反馈&lt;div&gt;控制器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="735" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ladt8LPY1Q4Q6v5qaPF--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ladt8LPY1Q4Q6v5qaPF--9" target="Ladt8LPY1Q4Q6v5qaPF--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ladt8LPY1Q4Q6v5qaPF--9" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="745" width="20" height="20" as="geometry" />
         </mxCell>
@@ -37,8 +40,13 @@
             <mxPoint x="230" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ladt8LPY1Q4Q6v5qaPF--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ladt8LPY1Q4Q6v5qaPF--12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ladt8LPY1Q4Q6v5qaPF--12" value="正动力学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="740" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="740" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
