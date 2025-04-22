@@ -32,9 +32,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IUYcdk-fmHTazkoznywC-9" value="关节&lt;div&gt;1～n&lt;div&gt;控制器&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="237.5" width="60" height="45" as="geometry" />
+          <mxGeometry x="220" y="233.75" width="50" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="IUYcdk-fmHTazkoznywC-10" value="关节1～n&lt;div&gt;驱动器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IUYcdk-fmHTazkoznywC-10" value="关节&lt;div&gt;1～n&lt;div&gt;驱动器&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="237.5" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IUYcdk-fmHTazkoznywC-14" value="机器人&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
