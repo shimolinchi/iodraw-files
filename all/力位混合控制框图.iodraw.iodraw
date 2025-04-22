@@ -28,14 +28,23 @@
         <mxCell id="Mek2ABqqFeBoHhYxGBii-5" value="S" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="245" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Mek2ABqqFeBoHhYxGBii-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mek2ABqqFeBoHhYxGBii-6" target="Mek2ABqqFeBoHhYxGBii-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mek2ABqqFeBoHhYxGBii-6" value="S" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="325" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Mek2ABqqFeBoHhYxGBii-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mek2ABqqFeBoHhYxGBii-7" target="Mek2ABqqFeBoHhYxGBii-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mek2ABqqFeBoHhYxGBii-7" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="250" width="20" height="20" as="geometry" />
+          <mxGeometry x="60" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mek2ABqqFeBoHhYxGBii-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mek2ABqqFeBoHhYxGBii-8" target="Mek2ABqqFeBoHhYxGBii-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mek2ABqqFeBoHhYxGBii-8" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="330" width="20" height="20" as="geometry" />
+          <mxGeometry x="60" y="330" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mek2ABqqFeBoHhYxGBii-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mek2ABqqFeBoHhYxGBii-9" target="Mek2ABqqFeBoHhYxGBii-10">
           <mxGeometry relative="1" as="geometry" />
