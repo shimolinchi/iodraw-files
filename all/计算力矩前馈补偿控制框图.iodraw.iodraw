@@ -10,7 +10,7 @@
         <mxCell id="lFSi0qnVKORRMmmTk0bY-2" value="各关节独立伺服控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lFSi0qnVKORRMmmTk0bY-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lFSi0qnVKORRMmmTk0bY-3" value="机器人系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
