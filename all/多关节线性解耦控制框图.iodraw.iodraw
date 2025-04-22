@@ -96,7 +96,7 @@
           <mxGeometry x="465" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-16" value="\(q,\dot q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="265" width="80" height="30" as="geometry" />
+          <mxGeometry x="380" y="245" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-23" value="\(D(q)\tau_c&#39;\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="170" width="100" height="30" as="geometry" />
@@ -109,6 +109,9 @@
         </mxCell>
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-31" value="\(q,\dot q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YgWJM_JgHOVLqAf1tnv-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="338" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
