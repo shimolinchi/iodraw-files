@@ -90,6 +90,9 @@
         <mxCell id="Ladt8LPY1Q4Q6v5qaPF--26" value="实际值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="354" y="760" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ladt8LPY1Q4Q6v5qaPF--27" value="\(\tau_b\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="758" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
