@@ -78,6 +78,9 @@
         <mxCell id="Ladt8LPY1Q4Q6v5qaPF--22" value="测&lt;div&gt;量&lt;/div&gt;&lt;div&gt;值&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="760" width="40" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ladt8LPY1Q4Q6v5qaPF--23" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
