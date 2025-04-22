@@ -54,6 +54,9 @@
             <mxPoint x="400" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ladt8LPY1Q4Q6v5qaPF--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ladt8LPY1Q4Q6v5qaPF--12" target="Ladt8LPY1Q4Q6v5qaPF--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ladt8LPY1Q4Q6v5qaPF--12" value="正动力学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="740" width="60" height="30" as="geometry" />
         </mxCell>
