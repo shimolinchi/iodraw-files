@@ -55,8 +55,8 @@
         <mxCell id="Qrqektu_ADZXjKuY3dbr-13" value="运动学&lt;div&gt;\(\dot x = J \dot q\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="285" y="95" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qrqektu_ADZXjKuY3dbr-14" value="静力学&lt;div&gt;(平衡时)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="310" y="210" width="70" height="40" as="geometry" />
+        <mxCell id="Qrqektu_ADZXjKuY3dbr-14" value="静力学&lt;div&gt;(平衡时)&lt;/div&gt;&lt;div&gt;\(\tau = J^TF_e\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="180" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
