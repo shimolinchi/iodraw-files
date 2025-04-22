@@ -75,8 +75,8 @@
         <mxCell id="IUYcdk-fmHTazkoznywC-26" value="\(q_d,\dot q_d,\ddot q_d\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="220" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IUYcdk-fmHTazkoznywC-27" value="\(X_{ed},&lt;div&gt;\dot x_{ed},\ddotx_{ed}\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="45" y="173" width="150" height="40" as="geometry" />
+        <mxCell id="IUYcdk-fmHTazkoznywC-27" value="\(X_{ed},\)&lt;div&gt;\(\dot x_{ed},\ddotx_{ed}\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="173" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
