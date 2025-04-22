@@ -59,6 +59,9 @@
         <mxCell id="7YgWJM_JgHOVLqAf1tnv-14" value="(正动力学)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="240" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7YgWJM_JgHOVLqAf1tnv-16" value="\(q,\dot q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="265" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
