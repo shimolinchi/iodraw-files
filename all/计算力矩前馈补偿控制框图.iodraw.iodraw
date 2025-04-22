@@ -102,6 +102,9 @@
         <mxCell id="lFSi0qnVKORRMmmTk0bY-27" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="310" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0oom3zgwztK74MgF0Zj1-1" value="计算力矩前馈补偿控制框图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="228" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
