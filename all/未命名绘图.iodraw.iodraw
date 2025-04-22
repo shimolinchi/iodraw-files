@@ -75,6 +75,9 @@
         <mxCell id="Ladt8LPY1Q4Q6v5qaPF--21" value="规划器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="775" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ladt8LPY1Q4Q6v5qaPF--22" value="测&lt;div&gt;量&lt;/div&gt;&lt;div&gt;值&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="733" width="40" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
