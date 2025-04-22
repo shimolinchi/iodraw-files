@@ -66,6 +66,9 @@
         <mxCell id="NnqEz2vOrAx-JfDBgbFr-20" value="\(\tau_c\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="230" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NnqEz2vOrAx-JfDBgbFr-21" value="\(\dot x_e\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="258" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
