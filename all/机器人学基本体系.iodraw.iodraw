@@ -70,6 +70,9 @@
         <mxCell id="rOfOUxm0KW89S-AX26uj-24" value="支撑条件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="111" y="305" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JHA8igkY5BF9lLUyo_iS-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="258" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
