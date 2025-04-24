@@ -56,7 +56,7 @@
           <mxGeometry x="65" y="342.5" width="75" height="25" as="geometry" />
         </mxCell>
         <mxCell id="rOfOUxm0KW89S-AX26uj-19" value="机器人动力学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="325" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="342.5" width="78" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
