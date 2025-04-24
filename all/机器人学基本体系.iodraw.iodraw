@@ -46,6 +46,9 @@
         <mxCell id="rOfOUxm0KW89S-AX26uj-15" value="建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="245" width="40" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="rOfOUxm0KW89S-AX26uj-16" value="仿真" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="250" width="40" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
