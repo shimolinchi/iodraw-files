@@ -81,6 +81,9 @@
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-27" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="120" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-28" value="\(\dot e_q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="68" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
