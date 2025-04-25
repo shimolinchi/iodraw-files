@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-8" value="增益&lt;div&gt;矩阵K&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="165" width="40" height="35" as="geometry" />
+          <mxGeometry x="460" y="162.5" width="40" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZG_3HyauHuj9ny05b8Db-9" target="ZG_3HyauHuj9ny05b8Db-10">
           <mxGeometry relative="1" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-10" value="机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="172.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZG_3HyauHuj9ny05b8Db-7" target="ZG_3HyauHuj9ny05b8Db-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
