@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="3DnvFYnDMZjt3iYD7xNl">
-    <mxGraphModel dx="136" dy="193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="85" dy="121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-63" value="末端&lt;div&gt;PD&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="250" width="30" height="30" as="geometry" />
+          <mxGeometry x="160" y="250" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfuJYOBk3QQ35ESr0vg1-67" target="vfuJYOBk3QQ35ESr0vg1-63">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-69" value="X" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="255" width="20" height="20" as="geometry" />
+          <mxGeometry x="210" y="255" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vfuJYOBk3QQ35ESr0vg1-73">
           <mxGeometry relative="1" as="geometry">
@@ -198,7 +198,7 @@
           <mxGeometry x="215" y="230" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-86" value="\(\dot e_q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="168" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="160" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-87" value="\(e_p,\)&lt;div&gt;\(e_o\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="227" width="60" height="40" as="geometry" />
