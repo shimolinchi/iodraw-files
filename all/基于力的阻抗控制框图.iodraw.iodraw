@@ -22,9 +22,10 @@
         <mxCell id="ZG_3HyauHuj9ny05b8Db-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZG_3HyauHuj9ny05b8Db-6" target="ZG_3HyauHuj9ny05b8Db-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZG_3HyauHuj9ny05b8Db-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZG_3HyauHuj9ny05b8Db-7">
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="150" as="sourcePoint" />
+            <mxPoint x="310" y="150" as="sourcePoint" />
+            <mxPoint x="373" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-6" value="X" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -78,10 +79,10 @@
           <mxGeometry x="480" y="220" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-26" value="\(F_{ed}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="132.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="260" y="132.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-27" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="98" width="30" height="30" as="geometry" />
+          <mxGeometry x="344" y="140" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
