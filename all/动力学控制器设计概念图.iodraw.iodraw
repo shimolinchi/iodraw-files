@@ -105,7 +105,7 @@
         <mxCell id="Ladt8LPY1Q4Q6v5qaPF--31" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="220" y="720" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qC7WxGO7vkxq-qkDyOis-1" value="动力学控制器设计概念图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qC7WxGO7vkxq-qkDyOis-1" value="动力学控制器设计概念图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="249" y="680" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
