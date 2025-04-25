@@ -28,6 +28,9 @@
         <mxCell id="ZG_3HyauHuj9ny05b8Db-9" value="\(J^T(q)\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="167.5" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-10" value="机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
