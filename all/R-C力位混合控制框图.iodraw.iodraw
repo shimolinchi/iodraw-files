@@ -31,8 +31,8 @@
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-10" value="\(K_{pd}\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="340" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d4mm0vSmXhIhF8FzCqm_-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="288" width="50" height="30" as="geometry" />
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-12" value="X" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
