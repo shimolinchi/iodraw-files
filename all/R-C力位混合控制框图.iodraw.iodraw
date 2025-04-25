@@ -106,6 +106,9 @@
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.346;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d4mm0vSmXhIhF8FzCqm_-31" target="d4mm0vSmXhIhF8FzCqm_-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4mm0vSmXhIhF8FzCqm_-35" target="d4mm0vSmXhIhF8FzCqm_-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-35" value="末端力/力&lt;span style=&quot;background-color: initial;&quot;&gt;矩传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="530" width="111" height="20" as="geometry" />
         </mxCell>
@@ -175,6 +178,9 @@
         </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-57" value="X" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="385" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4mm0vSmXhIhF8FzCqm_-62" target="d4mm0vSmXhIhF8FzCqm_-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-62" value="X" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="430" width="20" height="20" as="geometry" />
