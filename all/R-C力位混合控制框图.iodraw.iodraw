@@ -100,7 +100,7 @@
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.346;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d4mm0vSmXhIhF8FzCqm_-31" target="d4mm0vSmXhIhF8FzCqm_-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4mm0vSmXhIhF8FzCqm_-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-35" value="末端力/力&lt;div&gt;矩传感器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
