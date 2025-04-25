@@ -278,8 +278,8 @@
         <mxCell id="Pt6ZLcCcv2MONuAl7JOx-11" value="\(e_F\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="415" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pt6ZLcCcv2MONuAl7JOx-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="378" width="50" height="30" as="geometry" />
+        <mxCell id="Pt6ZLcCcv2MONuAl7JOx-12" value="\(\dot e_p,\dot e_o\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="378" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
