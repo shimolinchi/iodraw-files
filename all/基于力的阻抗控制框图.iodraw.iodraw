@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZG_3HyauHuj9ny05b8Db-36" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-36" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="350" y="140" width="298" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="ZG_3HyauHuj9ny05b8Db-35" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-35" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="576.5" y="157.5" width="67" height="75" as="geometry" />
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZG_3HyauHuj9ny05b8Db-1" target="ZG_3HyauHuj9ny05b8Db-3" edge="1">
