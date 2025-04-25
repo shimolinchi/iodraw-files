@@ -28,6 +28,9 @@
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-7" value="\(J^{-1}\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="300" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4mm0vSmXhIhF8FzCqm_-8" target="d4mm0vSmXhIhF8FzCqm_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-8" value="\(J^{-1}\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="30" height="20" as="geometry" />
         </mxCell>
@@ -37,6 +40,9 @@
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-9" value="\(K_{pp}\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="300" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4mm0vSmXhIhF8FzCqm_-10" target="d4mm0vSmXhIhF8FzCqm_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-10" value="\(K_{pd}\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="340" width="30" height="20" as="geometry" />
         </mxCell>
@@ -45,9 +51,6 @@
         </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-13" value="X" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="340" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="d4mm0vSmXhIhF8FzCqm_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.1;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d4mm0vSmXhIhF8FzCqm_-5" target="d4mm0vSmXhIhF8FzCqm_-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
