@@ -198,7 +198,7 @@
           <mxGeometry x="215" y="230" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-86" value="\(\dot e_q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="160" y="238" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-87" value="\(e_p,\)&lt;div&gt;\(e_o\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="227" width="60" height="40" as="geometry" />
