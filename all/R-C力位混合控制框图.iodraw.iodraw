@@ -224,6 +224,9 @@
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-72" value="关&lt;div&gt;节&lt;/div&gt;&lt;div&gt;位&lt;/div&gt;&lt;div&gt;置&lt;/div&gt;&lt;div&gt;PD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="384" y="285" width="40" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-73" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="208" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
