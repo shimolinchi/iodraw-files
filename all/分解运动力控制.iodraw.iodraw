@@ -19,8 +19,8 @@
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-4" value="X" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="145" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vfuJYOBk3QQ35ESr0vg1-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="148" width="50" height="30" as="geometry" />
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-8" value="M" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="145" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
