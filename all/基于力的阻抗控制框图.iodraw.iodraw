@@ -114,6 +114,9 @@
         <mxCell id="ZG_3HyauHuj9ny05b8Db-39" value="&lt;div&gt;\(\Delta F_e\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-40" value="\(F_{er}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="268" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
