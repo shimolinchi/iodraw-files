@@ -78,39 +78,39 @@
         <mxCell id="ebFis7Fu-VGr6g67EQjv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ebFis7Fu-VGr6g67EQjv-44" target="ebFis7Fu-VGr6g67EQjv-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="360" />
+              <mxPoint x="330" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-44" value="正运动学" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="340" y="350" width="60" height="20" as="geometry" />
+          <mxGeometry x="350" y="350" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ebFis7Fu-VGr6g67EQjv-47" target="ebFis7Fu-VGr6g67EQjv-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ebFis7Fu-VGr6g67EQjv-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="305" as="sourcePoint" />
+            <mxPoint x="290" y="305" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-47" value="\(J^{-1}(q)\)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="365" y="290" width="50" height="30" as="geometry" />
+          <mxGeometry x="375" y="290" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ebFis7Fu-VGr6g67EQjv-49" target="ebFis7Fu-VGr6g67EQjv-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-49" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="310" y="295" width="20" height="20" as="geometry" />
+          <mxGeometry x="320" y="295" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ebFis7Fu-VGr6g67EQjv-51" target="ebFis7Fu-VGr6g67EQjv-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-51" value="增益矩阵K" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="295" width="70" height="20" as="geometry" />
+          <mxGeometry x="450" y="295" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ebFis7Fu-VGr6g67EQjv-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="305" as="targetPoint" />
+            <mxPoint x="630" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ebFis7Fu-VGr6g67EQjv-55" target="ebFis7Fu-VGr6g67EQjv-44">
@@ -120,25 +120,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-55" value="机器人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="530" y="295" width="50" height="20" as="geometry" />
+          <mxGeometry x="540" y="295" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-56" value="\(q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="280" width="40" height="30" as="geometry" />
+          <mxGeometry x="580" y="280" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-57" value="\(e_q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="394" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="404" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-58" value="\(X_e\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="328" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="328" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-59" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="298" width="30" height="30" as="geometry" />
+          <mxGeometry x="290" y="298" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-60" value="\(X_{ed}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="280" width="70" height="30" as="geometry" />
+          <mxGeometry x="270" y="280" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ebFis7Fu-VGr6g67EQjv-61" value="\(e_p,e_o\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="304" y="280" width="80" height="30" as="geometry" />
+          <mxGeometry x="314" y="280" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
