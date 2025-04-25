@@ -59,7 +59,7 @@
           <mxGeometry x="290" y="190" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2F5f2ZAVSi9_clzFVL4M-1" value="关节空间与任务空间对应关系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="18" width="180" height="30" as="geometry" />
+          <mxGeometry x="345" y="50" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
