@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-35" value="末端力/力&lt;span style=&quot;background-color: initial;&quot;&gt;矩传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="510" width="111" height="20" as="geometry" />
+          <mxGeometry x="210" y="530" width="111" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4mm0vSmXhIhF8FzCqm_-38" target="d4mm0vSmXhIhF8FzCqm_-40">
           <mxGeometry relative="1" as="geometry" />
@@ -125,10 +125,10 @@
           <mxGeometry x="270" y="430" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-44" value="\(J^T\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250.5" y="480" width="30" height="20" as="geometry" />
+          <mxGeometry x="270" y="500" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-45" value="\(du/dt\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="460" width="40" height="20" as="geometry" />
+          <mxGeometry x="240" y="460" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
