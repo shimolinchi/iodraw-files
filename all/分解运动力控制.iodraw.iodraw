@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-25" value="\(F_{ec}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="277" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-84" value="\(\ddot {\tilde{x}_{ed}}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="237" width="140" height="30" as="geometry" />
         </mxCell>
@@ -46,13 +49,13 @@
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfuJYOBk3QQ35ESr0vg1-8" target="vfuJYOBk3QQ35ESr0vg1-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vfuJYOBk3QQ35ESr0vg1-8" value="M" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-8" value="M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="145" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfuJYOBk3QQ35ESr0vg1-10" target="vfuJYOBk3QQ35ESr0vg1-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vfuJYOBk3QQ35ESr0vg1-10" value="\(J^T(q)\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-10" value="\(J^T(q)\)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="330" y="145" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfuJYOBk3QQ35ESr0vg1-12" target="vfuJYOBk3QQ35ESr0vg1-15">
@@ -83,9 +86,6 @@
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-24" value="\(\tau_c\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="344" y="130" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vfuJYOBk3QQ35ESr0vg1-25" value="\(F_{ec}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="277" y="130" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-26" value="\(\ddot {\tilde{x}_{ed}}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="140" height="30" as="geometry" />
