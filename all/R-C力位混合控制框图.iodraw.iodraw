@@ -305,8 +305,8 @@
         <mxCell id="Pt6ZLcCcv2MONuAl7JOx-22" value="\(\tau_p\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355.5" y="360" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pt6ZLcCcv2MONuAl7JOx-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="368" width="50" height="30" as="geometry" />
+        <mxCell id="Pt6ZLcCcv2MONuAl7JOx-23" value="\(\tau_c\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369" y="385" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
