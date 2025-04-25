@@ -260,7 +260,10 @@
           <mxGeometry x="323" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-114" value="增加力收敛补偿的分解运动力控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="218" width="200" height="30" as="geometry" />
+          <mxGeometry x="294" y="225" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-115" value="无力感知的分解运动力控制框图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="98" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
