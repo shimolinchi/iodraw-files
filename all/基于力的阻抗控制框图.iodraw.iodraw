@@ -121,7 +121,10 @@
           <mxGeometry x="403" y="195" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-42" value="\(e_F\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="268" width="60" height="30" as="geometry" />
+          <mxGeometry x="403" y="154" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-43" value="\(F_{ec}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="154" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
