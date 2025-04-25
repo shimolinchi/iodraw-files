@@ -20,7 +20,7 @@
           <mxGeometry x="220" y="340" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-7" value="\(J^{-1}\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="300" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
