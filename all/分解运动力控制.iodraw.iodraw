@@ -1,11 +1,17 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="3DnvFYnDMZjt3iYD7xNl">
-    <mxGraphModel dx="30" dy="42" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="80" dy="115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-84" value="\(\ddot {\tilde{x}_{ed}}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="237" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-86" value="\(\dot e_q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="237" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-85" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="230" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-88" value="\(X_e,\dot x_e\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="78" y="285" width="110" height="30" as="geometry" />
@@ -195,12 +201,6 @@
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-83" value="\(F_{ec}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="277" y="200" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vfuJYOBk3QQ35ESr0vg1-85" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="230" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vfuJYOBk3QQ35ESr0vg1-86" value="\(\dot e_q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="135" y="237" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-87" value="\(e_p,\)&lt;div&gt;\(e_o\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="98" y="227" width="60" height="40" as="geometry" />
