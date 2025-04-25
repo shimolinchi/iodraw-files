@@ -19,6 +19,12 @@
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4mm0vSmXhIhF8FzCqm_-3" target="d4mm0vSmXhIhF8FzCqm_-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="d4mm0vSmXhIhF8FzCqm_-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="310" as="targetPoint" />
+            <mxPoint x="50" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-3" value="位姿误&lt;div&gt;差计算&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="290" width="50" height="40" as="geometry" />
         </mxCell>
