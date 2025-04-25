@@ -140,6 +140,9 @@
         <mxCell id="ebFis7Fu-VGr6g67EQjv-61" value="\(e_p,e_o\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="314" y="270" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ebFis7Fu-VGr6g67EQjv-63" value="基于雅可比矩阵转置的分解运动位置控制框图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="377" y="255" width="260" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
