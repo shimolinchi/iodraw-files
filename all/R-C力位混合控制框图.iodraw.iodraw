@@ -236,8 +236,8 @@
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-75" value="位&lt;div&gt;姿&lt;/div&gt;&lt;div&gt;控&lt;/div&gt;&lt;div&gt;制&lt;/div&gt;&lt;div&gt;环&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="250" width="40" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="d4mm0vSmXhIhF8FzCqm_-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="308" width="50" height="30" as="geometry" />
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-78" value="力&lt;div&gt;控&lt;/div&gt;&lt;div&gt;制&lt;/div&gt;&lt;div&gt;环&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="450" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
