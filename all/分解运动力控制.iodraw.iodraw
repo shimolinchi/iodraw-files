@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-88" value="\(X_e,\dot x_e\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="78" y="285" width="110" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vfuJYOBk3QQ35ESr0vg1-2" target="vfuJYOBk3QQ35ESr0vg1-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -178,6 +181,11 @@
             <mxPoint x="180.00000000000006" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-103" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vfuJYOBk3QQ35ESr0vg1-78">
+          <mxGeometry x="-0.7723" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-79" value="正运动学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="300" width="60" height="20" as="geometry" />
         </mxCell>
@@ -194,7 +202,7 @@
           <mxGeometry x="277" y="200" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-84" value="\(\ddot {\tilde{x}_{ed}}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="237" width="140" height="30" as="geometry" />
+          <mxGeometry x="150" y="237" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-85" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="230" width="30" height="30" as="geometry" />
@@ -204,9 +212,6 @@
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-87" value="\(e_p,\)&lt;div&gt;\(e_o\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="227" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vfuJYOBk3QQ35ESr0vg1-88" value="\(X_e,\dot x_e\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="78" y="285" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-89" value="\(X_{ed},\dot x_{ed}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="260" width="130" height="30" as="geometry" />
