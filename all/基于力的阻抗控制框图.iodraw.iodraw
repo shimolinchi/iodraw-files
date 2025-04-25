@@ -13,7 +13,7 @@
         <mxCell id="ZG_3HyauHuj9ny05b8Db-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZG_3HyauHuj9ny05b8Db-1" target="ZG_3HyauHuj9ny05b8Db-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZG_3HyauHuj9ny05b8Db-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZG_3HyauHuj9ny05b8Db-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="160" as="targetPoint" />
             <mxPoint x="140" y="180" as="sourcePoint" />
@@ -114,7 +114,7 @@
           <mxGeometry x="180" y="150" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-33" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="214" width="30" height="30" as="geometry" />
+          <mxGeometry x="150" y="174" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-37" value="末端力闭环" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="373" y="140" width="80" height="30" as="geometry" />
@@ -142,6 +142,9 @@
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-46" value="\(q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="150" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-49" value="\(X_{ed}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="118" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
