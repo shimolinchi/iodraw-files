@@ -90,8 +90,8 @@
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-30" value="\(X_e,\dot x_e\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="98" y="190" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vfuJYOBk3QQ35ESr0vg1-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="65" y="158" width="50" height="30" as="geometry" />
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-31" value="\(X_{ed},\dot x_{ed}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="158" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
