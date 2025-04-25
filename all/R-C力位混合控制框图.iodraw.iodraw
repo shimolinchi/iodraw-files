@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-1" value="末端位姿及速度计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="240" width="120" height="30" as="geometry" />
+          <mxGeometry x="150" y="245" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-2" value="关节传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="300" width="70" height="20" as="geometry" />
+          <mxGeometry x="290" y="245" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
