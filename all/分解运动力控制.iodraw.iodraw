@@ -200,8 +200,8 @@
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-86" value="\(\dot e_q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="168" y="240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vfuJYOBk3QQ35ESr0vg1-87" value="\(e_p&lt;div&gt;e_o\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="128" y="235" width="50" height="40" as="geometry" />
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-87" value="\(e_p\)&lt;div&gt;\(e_o\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="123" y="235" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-88" value="\(X_e,\dot x_e\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="98" y="285" width="110" height="30" as="geometry" />
