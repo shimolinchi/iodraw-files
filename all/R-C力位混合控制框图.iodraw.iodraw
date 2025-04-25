@@ -106,8 +106,8 @@
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-35" value="末端力/力&lt;span style=&quot;background-color: initial;&quot;&gt;矩传感器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="480" width="111" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d4mm0vSmXhIhF8FzCqm_-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-38" value="\(I-S\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="410" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
