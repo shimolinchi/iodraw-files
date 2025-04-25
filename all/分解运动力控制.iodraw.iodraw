@@ -26,7 +26,7 @@
           <mxGeometry x="280" y="145" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-10" value="\(J^T(q)\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="145" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
