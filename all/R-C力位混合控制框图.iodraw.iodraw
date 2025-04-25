@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-74" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-71" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="321" y="290" width="99" height="80" as="geometry" />
         </mxCell>
@@ -226,9 +229,6 @@
         </mxCell>
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-73" value="R-C力/位混合控制框图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300.5" y="215" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="d4mm0vSmXhIhF8FzCqm_-74" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
