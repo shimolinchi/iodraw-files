@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="HFJR6ltqWghEDbpPDhZX">
-    <mxGraphModel dx="121" dy="174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="182" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-3" value="\(M_ds^2 + B_ds + K_d\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="165" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZG_3HyauHuj9ny05b8Db-4" target="ZG_3HyauHuj9ny05b8Db-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZG_3HyauHuj9ny05b8Db-4" value="正运动学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="230" width="50" height="20" as="geometry" />
@@ -87,8 +90,11 @@
         <mxCell id="ZG_3HyauHuj9ny05b8Db-27" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="140" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZG_3HyauHuj9ny05b8Db-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="175" y="138" width="50" height="30" as="geometry" />
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-30" value="\(e\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG_3HyauHuj9ny05b8Db-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
