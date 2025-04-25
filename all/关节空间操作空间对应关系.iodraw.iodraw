@@ -23,7 +23,7 @@
           <mxGeometry x="235" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qrqektu_ADZXjKuY3dbr-6" value="任务空间&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="380" y="80" width="150" height="210" as="geometry" />
+          <mxGeometry x="380" y="80" width="145" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Qrqektu_ADZXjKuY3dbr-7" value="关节运动状态（n维）&lt;div&gt;\(X_e,\dot x_e, \ddot x_e\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="395" y="110" width="120" height="60" as="geometry" />
