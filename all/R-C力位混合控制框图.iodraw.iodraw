@@ -112,8 +112,8 @@
         <mxCell id="d4mm0vSmXhIhF8FzCqm_-39" value="\(I-S\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="430" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d4mm0vSmXhIhF8FzCqm_-40" value="\(J^{-1}\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="390" width="30" height="20" as="geometry" />
+        <mxCell id="d4mm0vSmXhIhF8FzCqm_-40" value="\(J^T\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="385" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
