@@ -197,8 +197,8 @@
         <mxCell id="vfuJYOBk3QQ35ESr0vg1-93" value="力传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="320" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vfuJYOBk3QQ35ESr0vg1-95" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="vfuJYOBk3QQ35ESr0vg1-95" value="环&lt;div&gt;境&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="245" width="20" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
