@@ -25,6 +25,9 @@
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-7" value="\(\dot J(q)\dot q\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-8" value="正动力学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
