@@ -85,7 +85,10 @@
           <mxGeometry x="170" y="160" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-26" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="88" width="30" height="30" as="geometry" />
+          <mxGeometry x="110" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-27" value="\(\dot e_q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="168" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
