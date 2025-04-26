@@ -102,8 +102,8 @@
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-31" value="\(q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="124" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="268" width="50" height="30" as="geometry" />
+        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-32" value="分解运动加速度控制框图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="105" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
