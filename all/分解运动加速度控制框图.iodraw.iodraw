@@ -1,13 +1,13 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="I2X185iHSywWEn4GM9uq">
-    <mxGraphModel dx="997" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1070" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFTWg1HE3kt1EWAPbJZJ-1" target="vFTWg1HE3kt1EWAPbJZJ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-1" value="末端&lt;div&gt;PD&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-1" value="末端&lt;div&gt;PD&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="130" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFTWg1HE3kt1EWAPbJZJ-2" target="vFTWg1HE3kt1EWAPbJZJ-3">
@@ -40,7 +40,7 @@
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFTWg1HE3kt1EWAPbJZJ-5" target="vFTWg1HE3kt1EWAPbJZJ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-5" value="逆动力&lt;div&gt;学计算&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-5" value="逆动力&lt;div&gt;学计算&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="130" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vFTWg1HE3kt1EWAPbJZJ-6">
@@ -54,19 +54,19 @@
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFTWg1HE3kt1EWAPbJZJ-6" target="vFTWg1HE3kt1EWAPbJZJ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-6" value="机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-6" value="机器人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="135" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFTWg1HE3kt1EWAPbJZJ-7" target="vFTWg1HE3kt1EWAPbJZJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-7" value="\(\dot J(q)\dot q\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-7" value="\(\dot J(q)\dot q\)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFTWg1HE3kt1EWAPbJZJ-8" target="vFTWg1HE3kt1EWAPbJZJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-8" value="正动力学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-8" value="正动力学" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="210" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
