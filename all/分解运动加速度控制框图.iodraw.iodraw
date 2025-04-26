@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="I2X185iHSywWEn4GM9uq">
-    <mxGraphModel dx="213" dy="326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="194" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,8 +42,14 @@
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFTWg1HE3kt1EWAPbJZJ-6" target="vFTWg1HE3kt1EWAPbJZJ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFTWg1HE3kt1EWAPbJZJ-6" target="vFTWg1HE3kt1EWAPbJZJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-6" value="机器人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="135" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vFTWg1HE3kt1EWAPbJZJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFTWg1HE3kt1EWAPbJZJ-7" target="vFTWg1HE3kt1EWAPbJZJ-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vFTWg1HE3kt1EWAPbJZJ-7" value="\(\dot J(q)\dot q\)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="50" height="30" as="geometry" />
