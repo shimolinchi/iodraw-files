@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ocsK3d34uujHvVK3idSJ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="150" height="50" as="geometry" />
+          <mxGeometry x="330" y="220" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ocsK3d34uujHvVK3idSJ-1" value="敏感元件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="60" height="20" as="geometry" />
@@ -25,7 +25,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocsK3d34uujHvVK3idSJ-5" value="转换元件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="240" width="60" height="20" as="geometry" />
+          <mxGeometry x="420" y="240" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ocsK3d34uujHvVK3idSJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocsK3d34uujHvVK3idSJ-4" target="ocsK3d34uujHvVK3idSJ-5">
           <mxGeometry relative="1" as="geometry" />
@@ -38,6 +38,9 @@
         </mxCell>
         <mxCell id="ocsK3d34uujHvVK3idSJ-13" value="输出量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="208" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocsK3d34uujHvVK3idSJ-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="178" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
