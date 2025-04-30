@@ -39,8 +39,8 @@
         <mxCell id="ocsK3d34uujHvVK3idSJ-13" value="输出量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="208" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ocsK3d34uujHvVK3idSJ-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="178" width="50" height="30" as="geometry" />
+        <mxCell id="ocsK3d34uujHvVK3idSJ-15" value="基本部分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="226" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
