@@ -28,6 +28,9 @@
         <mxCell id="nK-xkI9FxtwrncRWwnoR-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="250" width="170" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="nK-xkI9FxtwrncRWwnoR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK-xkI9FxtwrncRWwnoR-9" target="nK-xkI9FxtwrncRWwnoR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nK-xkI9FxtwrncRWwnoR-9" value="机械系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="20" height="70" as="geometry" />
         </mxCell>
@@ -41,7 +44,10 @@
           <mxGeometry x="650" y="270" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nK-xkI9FxtwrncRWwnoR-13" value="执行器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="228" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nK-xkI9FxtwrncRWwnoR-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="218" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
