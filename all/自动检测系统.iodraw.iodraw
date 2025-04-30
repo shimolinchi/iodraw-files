@@ -7,16 +7,16 @@
         <mxCell id="nK-xkI9FxtwrncRWwnoR-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="250" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nK-xkI9FxtwrncRWwnoR-1" value="建模仿真" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nK-xkI9FxtwrncRWwnoR-1" value="建模仿真" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="410" y="260" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nK-xkI9FxtwrncRWwnoR-2" value="自动检测系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="285" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nK-xkI9FxtwrncRWwnoR-3" value="自动控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nK-xkI9FxtwrncRWwnoR-3" value="自动控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="410" y="300" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nK-xkI9FxtwrncRWwnoR-4" value="优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nK-xkI9FxtwrncRWwnoR-4" value="优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="420" y="340" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nK-xkI9FxtwrncRWwnoR-5" value="=" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -31,13 +31,13 @@
         <mxCell id="nK-xkI9FxtwrncRWwnoR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK-xkI9FxtwrncRWwnoR-9" target="nK-xkI9FxtwrncRWwnoR-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nK-xkI9FxtwrncRWwnoR-9" value="机械系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nK-xkI9FxtwrncRWwnoR-9" value="机械系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="290" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nK-xkI9FxtwrncRWwnoR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK-xkI9FxtwrncRWwnoR-10" target="nK-xkI9FxtwrncRWwnoR-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nK-xkI9FxtwrncRWwnoR-10" value="电气系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nK-xkI9FxtwrncRWwnoR-10" value="电气系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="585" y="290" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nK-xkI9FxtwrncRWwnoR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK-xkI9FxtwrncRWwnoR-11" target="nK-xkI9FxtwrncRWwnoR-10">
@@ -48,7 +48,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nK-xkI9FxtwrncRWwnoR-11" value="计算机系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nK-xkI9FxtwrncRWwnoR-11" value="计算机系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="660" y="280" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nK-xkI9FxtwrncRWwnoR-13" value="执行器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
