@@ -21,7 +21,7 @@
         </mxCell>
         <mxCell id="ocsK3d34uujHvVK3idSJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ocsK3d34uujHvVK3idSJ-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="250.0714285714286" as="targetPoint" />
+            <mxPoint x="650" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ocsK3d34uujHvVK3idSJ-3" value="调理电路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -46,7 +46,7 @@
           <mxGeometry x="480" y="228" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ocsK3d34uujHvVK3idSJ-13" value="输出量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="208" width="60" height="30" as="geometry" />
+          <mxGeometry x="590" y="228" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ocsK3d34uujHvVK3idSJ-15" value="基本部分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="375" y="215" width="70" height="30" as="geometry" />
@@ -56,6 +56,9 @@
         </mxCell>
         <mxCell id="ocsK3d34uujHvVK3idSJ-18" value="x" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocsK3d34uujHvVK3idSJ-21" value="y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="645" y="268" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
