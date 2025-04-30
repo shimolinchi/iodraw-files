@@ -10,8 +10,8 @@
         <mxCell id="ocsK3d34uujHvVK3idSJ-3" value="敏感元件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ocsK3d34uujHvVK3idSJ-4" value="敏感元件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="260" width="60" height="20" as="geometry" />
+        <mxCell id="ocsK3d34uujHvVK3idSJ-4" value="辅助电源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ocsK3d34uujHvVK3idSJ-5" value="转换元件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="240" width="60" height="20" as="geometry" />
