@@ -40,14 +40,17 @@
         <mxCell id="nK-xkI9FxtwrncRWwnoR-10" value="电气系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="280" width="20" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="nK-xkI9FxtwrncRWwnoR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK-xkI9FxtwrncRWwnoR-11" target="nK-xkI9FxtwrncRWwnoR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nK-xkI9FxtwrncRWwnoR-11" value="计算机系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="270" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nK-xkI9FxtwrncRWwnoR-13" value="执行器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nK-xkI9FxtwrncRWwnoR-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="535" y="218" width="50" height="30" as="geometry" />
+        <mxCell id="nK-xkI9FxtwrncRWwnoR-15" value="传感器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="305" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
