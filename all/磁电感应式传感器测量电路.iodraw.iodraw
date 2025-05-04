@@ -47,6 +47,11 @@
         <mxCell id="_3j_UOxtF44JIxQSIEKh-3" value="前置放大" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="140" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_3j_UOxtF44JIxQSIEKh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=0;" edge="1" parent="1" source="_3j_UOxtF44JIxQSIEKh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_3j_UOxtF44JIxQSIEKh-4" value="前置放大" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="140" width="60" height="40" as="geometry" />
         </mxCell>
@@ -61,8 +66,8 @@
         <mxCell id="_3j_UOxtF44JIxQSIEKh-6" value="主放大器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="140" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_3j_UOxtF44JIxQSIEKh-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="118" width="50" height="30" as="geometry" />
+        <mxCell id="_3j_UOxtF44JIxQSIEKh-15" value="\(a\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="118" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
