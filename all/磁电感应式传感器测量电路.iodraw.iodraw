@@ -61,8 +61,8 @@
         <mxCell id="_3j_UOxtF44JIxQSIEKh-6" value="主放大器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="140" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_3j_UOxtF44JIxQSIEKh-14" value="a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="118" width="30" height="30" as="geometry" />
+        <mxCell id="_3j_UOxtF44JIxQSIEKh-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="118" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
