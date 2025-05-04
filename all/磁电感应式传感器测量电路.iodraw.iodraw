@@ -27,11 +27,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_3j_UOxtF44JIxQSIEKh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="_3j_UOxtF44JIxQSIEKh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=oval;startFill=0;" edge="1" parent="1" target="_3j_UOxtF44JIxQSIEKh-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="120" as="targetPoint" />
             <mxPoint x="250" y="150" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_3j_UOxtF44JIxQSIEKh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_3j_UOxtF44JIxQSIEKh-3" target="_3j_UOxtF44JIxQSIEKh-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_3j_UOxtF44JIxQSIEKh-3" value="前置放大" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="140" width="60" height="40" as="geometry" />
