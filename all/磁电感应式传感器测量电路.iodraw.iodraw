@@ -72,11 +72,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_3j_UOxtF44JIxQSIEKh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_3j_UOxtF44JIxQSIEKh-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="571.025641025641" y="160.1025641025641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_3j_UOxtF44JIxQSIEKh-6" value="主放大器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="140" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_3j_UOxtF44JIxQSIEKh-15" value="\(a\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="413" y="118" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_3j_UOxtF44JIxQSIEKh-19" value="显示或记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="88" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
