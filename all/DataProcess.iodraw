@@ -58,7 +58,7 @@
         <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-18" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;广告分类器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1045" y="230" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-19" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Fluency&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Classifier&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-19" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;流畅性分类器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1045" y="410" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V0zkvQ-k1Q0lLs6vgkDK-22" target="V0zkvQ-k1Q0lLs6vgkDK-23" edge="1">
