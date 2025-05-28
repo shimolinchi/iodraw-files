@@ -64,7 +64,7 @@
         <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V0zkvQ-k1Q0lLs6vgkDK-22" target="V0zkvQ-k1Q0lLs6vgkDK-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Toxicity&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Classifier&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;有害信息分类&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815" y="350" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="V0zkvQ-k1Q0lLs6vgkDK-23" target="V0zkvQ-k1Q0lLs6vgkDK-18" edge="1">
@@ -76,7 +76,7 @@
         <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V0zkvQ-k1Q0lLs6vgkDK-24" target="V0zkvQ-k1Q0lLs6vgkDK-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Word&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Blocking&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;单词屏蔽&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="815" y="280" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V0zkvQ-k1Q0lLs6vgkDK-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V0zkvQ-k1Q0lLs6vgkDK-25" target="V0zkvQ-k1Q0lLs6vgkDK-24" edge="1">
