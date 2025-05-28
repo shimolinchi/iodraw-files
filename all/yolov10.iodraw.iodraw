@@ -366,7 +366,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zWnWDPcDZEXdmk-So9-S-293" value="One-to-many Head" style="rounded=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#663300;align=center;spacingLeft=0;spacingRight=170;spacingBottom=50;spacingTop=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="zWnWDPcDZEXdmk-So9-S-293" value="一对多头" style="rounded=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#663300;align=center;spacingLeft=0;spacingRight=170;spacingBottom=50;spacingTop=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="60" y="667.5" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-331" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zWnWDPcDZEXdmk-So9-S-294" edge="1">
@@ -396,7 +396,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zWnWDPcDZEXdmk-So9-S-308" value="One-to-one Head" style="rounded=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#663300;align=center;spacingLeft=0;spacingRight=180;spacingBottom=50;spacingTop=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="zWnWDPcDZEXdmk-So9-S-308" value="一对一头" style="rounded=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#663300;align=center;spacingLeft=0;spacingRight=180;spacingBottom=50;spacingTop=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="348.76" y="667.5" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zWnWDPcDZEXdmk-So9-S-309" edge="1">
