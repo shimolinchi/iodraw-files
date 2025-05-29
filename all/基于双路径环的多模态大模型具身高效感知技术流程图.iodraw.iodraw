@@ -75,8 +75,8 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-22" value="分割语义框" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="110" y="850" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="AX1STPJcYithFCD2X2bx-24" value="运动追踪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
