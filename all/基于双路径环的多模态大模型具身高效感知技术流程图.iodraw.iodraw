@@ -16,7 +16,7 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-4" value="Feature Pyramid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="480" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AX1STPJcYithFCD2X2bx-5" value="Neck Network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
