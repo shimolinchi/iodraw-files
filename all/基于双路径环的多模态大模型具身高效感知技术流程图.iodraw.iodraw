@@ -99,8 +99,8 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;物质属性列表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="1000" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-30" value="高帧率视频流" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="300" y="360" width="90" height="30" as="geometry" />
+        <mxCell id="AX1STPJcYithFCD2X2bx-30" value="低帧率视频流" style="whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AX1STPJcYithFCD2X2bx-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="420" width="330" height="260" as="geometry" />
