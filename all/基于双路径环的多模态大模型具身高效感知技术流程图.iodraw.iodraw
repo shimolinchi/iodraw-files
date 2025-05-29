@@ -156,6 +156,9 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-45" value="InternLM2 Tokenizer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221.25" y="510" width="137.5" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="AX1STPJcYithFCD2X2bx-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AX1STPJcYithFCD2X2bx-46" target="AX1STPJcYithFCD2X2bx-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AX1STPJcYithFCD2X2bx-46" value="InterLM2-Chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221.25" y="640" width="278.75" height="35" as="geometry" />
         </mxCell>
@@ -178,7 +181,7 @@
           <mxGeometry x="610" y="545" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AX1STPJcYithFCD2X2bx-61" value="“智析”多模态信息处理模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="730" width="160" height="60" as="geometry" />
+          <mxGeometry x="280" y="730" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
