@@ -43,8 +43,8 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-12" value="Box" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="670" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="640" width="100" height="60" as="geometry" />
+        <mxCell id="AX1STPJcYithFCD2X2bx-14" value="mask_coefficients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="640" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
