@@ -132,8 +132,8 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-45" value="InternLM2 Tokenizer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="221.25" y="510" width="137.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-46" value="InternLM2 Tokenizer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="224" y="630" width="137.5" height="35" as="geometry" />
+        <mxCell id="AX1STPJcYithFCD2X2bx-46" value="InterLM2-Chat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221.25" y="640" width="278.75" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
