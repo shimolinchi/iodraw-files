@@ -19,8 +19,8 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-5" value="Neck Network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="530" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-6" value="Neck Network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="540" width="120" height="30" as="geometry" />
+        <mxCell id="AX1STPJcYithFCD2X2bx-6" value="Prediction Head" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="584.5" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
