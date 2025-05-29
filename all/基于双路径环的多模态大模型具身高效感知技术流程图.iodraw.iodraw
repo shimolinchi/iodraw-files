@@ -177,6 +177,9 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-58" value="图像语义信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="545" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AX1STPJcYithFCD2X2bx-61" value="“智析”多模态信息处理模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="730" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
