@@ -106,10 +106,10 @@
           <mxGeometry x="200" y="420" width="340" height="260" as="geometry" />
         </mxCell>
         <mxCell id="AX1STPJcYithFCD2X2bx-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="440" width="160" height="70" as="geometry" />
+          <mxGeometry x="220" y="440" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AX1STPJcYithFCD2X2bx-36" value="Intern ViT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="445" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="445" width="110" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
