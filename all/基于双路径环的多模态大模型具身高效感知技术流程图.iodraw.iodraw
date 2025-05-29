@@ -31,6 +31,9 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-5" value="Neck Network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="530" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AX1STPJcYithFCD2X2bx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AX1STPJcYithFCD2X2bx-6" target="AX1STPJcYithFCD2X2bx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AX1STPJcYithFCD2X2bx-6" value="Prediction Head" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="580" width="120" height="30" as="geometry" />
         </mxCell>
@@ -38,7 +41,7 @@
           <mxGeometry x="-90" y="640" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AX1STPJcYithFCD2X2bx-12" value="Box" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="650" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
