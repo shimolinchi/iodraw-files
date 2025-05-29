@@ -218,6 +218,9 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-67" value="Pixel Shuffle" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="390" y="510" width="110" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="AX1STPJcYithFCD2X2bx-68" value="MLP Projector" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="575" width="110" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
