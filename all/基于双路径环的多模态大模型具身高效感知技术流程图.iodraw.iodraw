@@ -31,7 +31,7 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-5" value="Neck Network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-35" y="530" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.952;exitY=1.004;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="AX1STPJcYithFCD2X2bx-6" target="AX1STPJcYithFCD2X2bx-12">
+        <mxCell id="AX1STPJcYithFCD2X2bx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.952;exitY=1.004;exitDx=0;exitDy=0;entryX=0.16;entryY=-0.015;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="AX1STPJcYithFCD2X2bx-6" target="AX1STPJcYithFCD2X2bx-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="79" y="670" />
@@ -44,7 +44,7 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="630" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-12" value="Box" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AX1STPJcYithFCD2X2bx-12" value="Box" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="1">
           <mxGeometry x="70" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AX1STPJcYithFCD2X2bx-14" value="mask_coefficients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
