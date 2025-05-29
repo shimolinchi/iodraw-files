@@ -37,8 +37,8 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="640" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="AX1STPJcYithFCD2X2bx-12" value="Box" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
