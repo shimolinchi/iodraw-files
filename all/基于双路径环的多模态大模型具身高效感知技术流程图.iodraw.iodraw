@@ -11,7 +11,10 @@
           <mxGeometry x="-20" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AX1STPJcYithFCD2X2bx-3" value="Feature BackBone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="-35" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AX1STPJcYithFCD2X2bx-4" value="Feature BackBone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="480" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
