@@ -16,11 +16,20 @@
         <mxCell id="AecblPmzSbLmO7IDTOaC-3" value="关节式机械系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="230" y="370" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AecblPmzSbLmO7IDTOaC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AecblPmzSbLmO7IDTOaC-4" target="AecblPmzSbLmO7IDTOaC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AecblPmzSbLmO7IDTOaC-4" value="变速机构" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="230" y="430" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AecblPmzSbLmO7IDTOaC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AecblPmzSbLmO7IDTOaC-6" target="AecblPmzSbLmO7IDTOaC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AecblPmzSbLmO7IDTOaC-6" value="执行机构" style="whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AecblPmzSbLmO7IDTOaC-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
