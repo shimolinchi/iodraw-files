@@ -34,10 +34,10 @@
         <mxCell id="AecblPmzSbLmO7IDTOaC-6" value="执行机构" style="whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AecblPmzSbLmO7IDTOaC-9" value="环境" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AecblPmzSbLmO7IDTOaC-9" value="环境" style="whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="220" y="610" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AecblPmzSbLmO7IDTOaC-14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AecblPmzSbLmO7IDTOaC-14" value="外传感器" style="whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="390" y="610" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
