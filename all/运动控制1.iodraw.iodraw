@@ -87,7 +87,7 @@
           <mxGeometry x="470" y="330" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AecblPmzSbLmO7IDTOaC-30" value="外&lt;div&gt;传&lt;/div&gt;&lt;div&gt;感&lt;/div&gt;&lt;div&gt;器&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="530" y="673" width="40" height="160" as="geometry" />
+          <mxGeometry x="450" y="475" width="40" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
