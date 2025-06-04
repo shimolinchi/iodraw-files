@@ -5,12 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AecblPmzSbLmO7IDTOaC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="220" y="360" width="170" height="220" as="geometry" />
+          <mxGeometry x="220" y="360" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="AecblPmzSbLmO7IDTOaC-2" value="内&lt;div style=&quot;font-size: 20px;&quot;&gt;传&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;感&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="390" y="360" width="40" height="220" as="geometry" />
+          <mxGeometry x="390" y="360" width="40" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="AecblPmzSbLmO7IDTOaC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AecblPmzSbLmO7IDTOaC-3" target="AecblPmzSbLmO7IDTOaC-4">
+        <mxCell id="AecblPmzSbLmO7IDTOaC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="AecblPmzSbLmO7IDTOaC-3" target="AecblPmzSbLmO7IDTOaC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AecblPmzSbLmO7IDTOaC-3" value="关节式机械系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
@@ -19,7 +19,7 @@
         <mxCell id="AecblPmzSbLmO7IDTOaC-4" value="变速机构" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="230" y="430" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AecblPmzSbLmO7IDTOaC-6" value="执行机构" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AecblPmzSbLmO7IDTOaC-6" value="执行机构" style="whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="230" y="490" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
