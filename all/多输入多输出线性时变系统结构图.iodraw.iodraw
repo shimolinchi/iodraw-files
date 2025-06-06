@@ -7,6 +7,9 @@
         <mxCell id="-ygCCz0tfv7AG3ySiuRA-1" value="\(B(t)\)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-ygCCz0tfv7AG3ySiuRA-4" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="250" width="106" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
