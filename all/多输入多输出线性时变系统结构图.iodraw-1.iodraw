@@ -77,7 +77,7 @@
           <mxGeometry x="970" y="250" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-ygCCz0tfv7AG3ySiuRA-19" value="\(u\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="50" y="180" width="70" height="40" as="geometry" />
+          <mxGeometry x="10" y="240" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ygCCz0tfv7AG3ySiuRA-20" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="375" y="260" width="40" height="50" as="geometry" />
@@ -97,7 +97,7 @@
         <mxCell id="-ygCCz0tfv7AG3ySiuRA-29" value="\(x&#39;\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="479" y="260" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oQoWN046wIOi_OygJY8b-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oQoWN046wIOi_OygJY8b-1">
+        <mxCell id="oQoWN046wIOi_OygJY8b-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oQoWN046wIOi_OygJY8b-1" target="oQoWN046wIOi_OygJY8b-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="400" as="targetPoint" />
           </mxGeometry>
@@ -106,7 +106,7 @@
           <mxGeometry x="540" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oQoWN046wIOi_OygJY8b-4" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="100" y="270" width="80" height="80" as="geometry" />
+          <mxGeometry x="110" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
