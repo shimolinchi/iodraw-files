@@ -13,8 +13,11 @@
         <mxCell id="-ygCCz0tfv7AG3ySiuRA-6" value="\(\int\)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-ygCCz0tfv7AG3ySiuRA-7" value="\(B(t)\)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-ygCCz0tfv7AG3ySiuRA-7" value="\(A(t)\)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ygCCz0tfv7AG3ySiuRA-8" value="\(B(t)\)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
