@@ -89,8 +89,8 @@
         <mxCell id="-ygCCz0tfv7AG3ySiuRA-29" value="\(x&#39;\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="479" y="260" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oQoWN046wIOi_OygJY8b-1" value="\(A(t)\)" style="whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="560" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="oQoWN046wIOi_OygJY8b-1" value="\(K\)" style="whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="430" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
