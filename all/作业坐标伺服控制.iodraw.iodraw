@@ -113,7 +113,10 @@
           <mxGeometry x="440" y="280" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dmfJmTEX7kH93oqcSuss-1" value="\(\dot q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="675" y="338" width="70" height="30" as="geometry" />
+          <mxGeometry x="580" y="330" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dmfJmTEX7kH93oqcSuss-2" value="\(q\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
