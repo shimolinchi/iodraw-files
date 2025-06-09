@@ -31,8 +31,8 @@
             <mxPoint x="240" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6TJHKgQBPSYLfIeBpkb0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6TJHKgQBPSYLfIeBpkb0-1" target="6TJHKgQBPSYLfIeBpkb0-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6TJHKgQBPSYLfIeBpkb0-13" value="\(r_d\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="338" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
