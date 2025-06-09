@@ -22,6 +22,9 @@
         <mxCell id="6TJHKgQBPSYLfIeBpkb0-9" value="\(G(q)\)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="430" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6TJHKgQBPSYLfIeBpkb0-10" value="\(f(q)\)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="550" width="70" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
