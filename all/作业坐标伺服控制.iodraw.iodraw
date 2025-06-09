@@ -16,10 +16,10 @@
         <mxCell id="6TJHKgQBPSYLfIeBpkb0-6" value="手臂" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="250" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6TJHKgQBPSYLfIeBpkb0-8" value="\(K_p\)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6TJHKgQBPSYLfIeBpkb0-8" value="\(K_v\)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="340" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6TJHKgQBPSYLfIeBpkb0-9" value="\(K_p\)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6TJHKgQBPSYLfIeBpkb0-9" value="\(G(q)\)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="430" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
