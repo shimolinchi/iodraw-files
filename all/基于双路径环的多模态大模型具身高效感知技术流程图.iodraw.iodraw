@@ -180,7 +180,7 @@
             <mxPoint x="445" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-44" value="InternLM2 Tokenizer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="AX1STPJcYithFCD2X2bx-44" value="BERT文本编码器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="221.25" y="575" width="137.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="AX1STPJcYithFCD2X2bx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="AX1STPJcYithFCD2X2bx-45" target="AX1STPJcYithFCD2X2bx-44" edge="1">
