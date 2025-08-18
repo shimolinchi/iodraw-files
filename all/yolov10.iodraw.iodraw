@@ -856,6 +856,9 @@
         <mxCell id="JtnsRvLa398vDod9wAjo-22" value="一对多头" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="640.01" y="666.25" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="quoJso0n71NLoUuULTeD-3" value="轻量卷积块" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-200" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
