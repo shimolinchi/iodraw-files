@@ -778,6 +778,9 @@
         <mxCell id="quoJso0n71NLoUuULTeD-2" value="C2f的跨阶段多分支机制与CIB&#xa;作为基本单元结合" style="text;whiteSpace=wrap;" vertex="1" parent="xGY9QPZjVFNNFfFeUs2B-10">
           <mxGeometry x="560" y="50" width="320" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="quoJso0n71NLoUuULTeD-3" value="轻量卷积块" style="text;whiteSpace=wrap;" vertex="1" parent="xGY9QPZjVFNNFfFeUs2B-10">
+          <mxGeometry x="810" y="50" width="90" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="JtnsRvLa398vDod9wAjo-1" value="一对一头" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-160" y="666.25" width="100" height="40" as="geometry" />
         </mxCell>
@@ -856,8 +859,8 @@
         <mxCell id="JtnsRvLa398vDod9wAjo-22" value="一对多头" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="640.01" y="666.25" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="quoJso0n71NLoUuULTeD-3" value="轻量卷积块" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-200" width="90" height="40" as="geometry" />
+        <mxCell id="quoJso0n71NLoUuULTeD-4" value="并行的**通道注意力**与**空间注意力**分支" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-200" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
