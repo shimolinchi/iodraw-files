@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="cyiHewSt8FQ-1BWRIlSp">
-    <mxGraphModel dx="2610" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1876" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -467,15 +467,6 @@
         <mxCell id="zWnWDPcDZEXdmk-So9-S-129" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3×3 DW&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="xGY9QPZjVFNNFfFeUs2B-10" vertex="1">
           <mxGeometry x="845.02" y="175" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zWnWDPcDZEXdmk-So9-S-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="xGY9QPZjVFNNFfFeUs2B-10" source="zWnWDPcDZEXdmk-So9-S-131" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="895.02" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="894.02" y="310" />
-              <mxPoint x="894.02" y="310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-131" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3×3 DW&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="xGY9QPZjVFNNFfFeUs2B-10" vertex="1">
           <mxGeometry x="845.02" y="265" width="97.5" height="30" as="geometry" />
         </mxCell>
@@ -783,6 +774,9 @@
         </mxCell>
         <mxCell id="quoJso0n71NLoUuULTeD-4" value="并行通道注意力与空间注意力分支" style="text;whiteSpace=wrap;" vertex="1" parent="xGY9QPZjVFNNFfFeUs2B-10">
           <mxGeometry x="1040" y="40" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="quoJso0n71NLoUuULTeD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.521;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xGY9QPZjVFNNFfFeUs2B-10" source="zWnWDPcDZEXdmk-So9-S-131" target="zWnWDPcDZEXdmk-So9-S-125">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JtnsRvLa398vDod9wAjo-1" value="一对一头" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-160" y="666.25" width="100" height="40" as="geometry" />
