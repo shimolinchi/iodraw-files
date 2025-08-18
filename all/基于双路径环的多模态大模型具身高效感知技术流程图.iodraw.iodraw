@@ -232,6 +232,9 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-68" value="多层感知网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="390" y="575" width="110" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="4gekXCcNKOtJ6mXr_8yg-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="916" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
