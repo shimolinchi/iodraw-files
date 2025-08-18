@@ -197,7 +197,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-46" value="InterLM2-Chat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="AX1STPJcYithFCD2X2bx-46" value="VLM组件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="221.25" y="640" width="278.75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="AX1STPJcYithFCD2X2bx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.235;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="1" source="AX1STPJcYithFCD2X2bx-44" target="AX1STPJcYithFCD2X2bx-46" edge="1">
@@ -229,7 +229,7 @@
         <mxCell id="AX1STPJcYithFCD2X2bx-67" value="像素重排" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="390" y="510" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AX1STPJcYithFCD2X2bx-68" value="MLP Projector" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="AX1STPJcYithFCD2X2bx-68" value="多层感知网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="390" y="575" width="110" height="35" as="geometry" />
         </mxCell>
       </root>
