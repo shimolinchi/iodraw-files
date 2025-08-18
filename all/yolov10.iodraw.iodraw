@@ -661,7 +661,7 @@
         </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-170" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="xGY9QPZjVFNNFfFeUs2B-10" target="zWnWDPcDZEXdmk-So9-S-159" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1086" y="154.37" as="sourcePoint" />
+            <mxPoint x="1086.27" y="154" as="sourcePoint" />
             <mxPoint x="1116.27" y="164.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
