@@ -235,7 +235,7 @@
         <mxCell id="4gekXCcNKOtJ6mXr_8yg-1" value="理解物体间关系与语境" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="380" y="916" width="190" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="4gekXCcNKOtJ6mXr_8yg-2" value="追踪点云：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;多目标复杂场景感知理解&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=left;" vertex="1" parent="1">
+        <mxCell id="4gekXCcNKOtJ6mXr_8yg-2" value="追踪点云：&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;多目标复杂场景感知理解&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=left;" vertex="1" parent="1">
           <mxGeometry x="130" y="1130" width="230" height="90" as="geometry" />
         </mxCell>
       </root>
