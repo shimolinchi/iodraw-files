@@ -11,10 +11,10 @@
           <mxGeometry x="170" y="390" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Bgd83IEJGk7LeF5mYw4-2" value="概念设计与方案选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="390" width="120" height="30" as="geometry" />
+          <mxGeometry x="330" y="390" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Bgd83IEJGk7LeF5mYw4-4" value="结构设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="390" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
