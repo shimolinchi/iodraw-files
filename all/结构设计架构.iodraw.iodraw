@@ -49,8 +49,11 @@
         <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-9" value="肌腱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-18" value="肌腱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-18" value="框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-19" value="肌腱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
