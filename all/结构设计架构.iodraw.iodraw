@@ -13,6 +13,12 @@
         <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-3" value="手指" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-4" value="手指" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-5" value="小臂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
