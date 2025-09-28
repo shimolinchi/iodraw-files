@@ -7,6 +7,15 @@
         <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKp07iEJ51Q9a6Hn5qxQ-1" target="SKp07iEJ51Q9a6Hn5qxQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKp07iEJ51Q9a6Hn5qxQ-1" target="SKp07iEJ51Q9a6Hn5qxQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKp07iEJ51Q9a6Hn5qxQ-1" target="SKp07iEJ51Q9a6Hn5qxQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKp07iEJ51Q9a6Hn5qxQ-1" target="SKp07iEJ51Q9a6Hn5qxQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-1" value="总装配体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="80" height="40" as="geometry" />
         </mxCell>
