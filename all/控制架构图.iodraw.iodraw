@@ -151,8 +151,11 @@
         <mxCell id="brVuky9I2H5zHrrfSc0I-50" value="Serial" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="750" y="395" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="brVuky9I2H5zHrrfSc0I-51" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="368" width="50" height="30" as="geometry" />
+        <mxCell id="brVuky9I2H5zHrrfSc0I-51" value="position" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="368" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-52" value="position" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
