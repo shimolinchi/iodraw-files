@@ -166,8 +166,8 @@
         <mxCell id="brVuky9I2H5zHrrfSc0I-56" value="position" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1100" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="brVuky9I2H5zHrrfSc0I-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="208" width="50" height="30" as="geometry" />
+        <mxCell id="brVuky9I2H5zHrrfSc0I-57" value="PWM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="260" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
