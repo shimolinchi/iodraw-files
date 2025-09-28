@@ -34,14 +34,26 @@
         <mxCell id="brVuky9I2H5zHrrfSc0I-4" value="Arduino nano" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="300" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="brVuky9I2H5zHrrfSc0I-5" target="brVuky9I2H5zHrrfSc0I-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="brVuky9I2H5zHrrfSc0I-5" value="Arduino nano" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="350" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="brVuky9I2H5zHrrfSc0I-6" target="brVuky9I2H5zHrrfSc0I-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="brVuky9I2H5zHrrfSc0I-6" value="Arduino nano" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="400" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="brVuky9I2H5zHrrfSc0I-7" target="brVuky9I2H5zHrrfSc0I-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="brVuky9I2H5zHrrfSc0I-7" value="Arduino nano" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="brVuky9I2H5zHrrfSc0I-8" target="brVuky9I2H5zHrrfSc0I-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="brVuky9I2H5zHrrfSc0I-8" value="Arduino nano" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="500" width="90" height="40" as="geometry" />
