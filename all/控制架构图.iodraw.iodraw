@@ -103,7 +103,7 @@
         <mxCell id="brVuky9I2H5zHrrfSc0I-28" value="DC Motor*3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="500" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="brVuky9I2H5zHrrfSc0I-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="brVuky9I2H5zHrrfSc0I-34" value="encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
