@@ -74,7 +74,19 @@
           <mxGeometry x="1030" y="500" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="brVuky9I2H5zHrrfSc0I-24" value="DC Motor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-25" value="DC Motor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-26" value="DC Motor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-27" value="DC Motor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-28" value="DC Motor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="500" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
