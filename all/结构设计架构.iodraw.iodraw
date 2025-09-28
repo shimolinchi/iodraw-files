@@ -19,8 +19,8 @@
         <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-5" value="小臂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="SKp07iEJ51Q9a6Hn5qxQ-6" value="关节" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
