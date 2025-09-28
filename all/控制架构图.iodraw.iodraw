@@ -88,17 +88,32 @@
         <mxCell id="brVuky9I2H5zHrrfSc0I-18" value="TB6612FNG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="520" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brVuky9I2H5zHrrfSc0I-24" target="brVuky9I2H5zHrrfSc0I-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="brVuky9I2H5zHrrfSc0I-24" value="DC Motor*3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brVuky9I2H5zHrrfSc0I-25" target="brVuky9I2H5zHrrfSc0I-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="brVuky9I2H5zHrrfSc0I-25" value="DC Motor*3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="340" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brVuky9I2H5zHrrfSc0I-26" target="brVuky9I2H5zHrrfSc0I-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="brVuky9I2H5zHrrfSc0I-26" value="DC Motor*3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="400" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brVuky9I2H5zHrrfSc0I-27" target="brVuky9I2H5zHrrfSc0I-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="brVuky9I2H5zHrrfSc0I-27" value="DC Motor*3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brVuky9I2H5zHrrfSc0I-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brVuky9I2H5zHrrfSc0I-28" target="brVuky9I2H5zHrrfSc0I-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="brVuky9I2H5zHrrfSc0I-28" value="DC Motor*3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="520" width="90" height="40" as="geometry" />
