@@ -32,17 +32,23 @@
         <mxCell id="4Bgd83IEJGk7LeF5mYw4-4" value="结构设计" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="127.5" y="450" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cveEDRFQKkeF_e7HjlV7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Bgd83IEJGk7LeF5mYw4-6" target="4Bgd83IEJGk7LeF5mYw4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4Bgd83IEJGk7LeF5mYw4-6" value="3D打印样机制作" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="520" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Bgd83IEJGk7LeF5mYw4-7" value="控制系统开发" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="212.5" y="520" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cveEDRFQKkeF_e7HjlV7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Bgd83IEJGk7LeF5mYw4-8" target="4Bgd83IEJGk7LeF5mYw4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4Bgd83IEJGk7LeF5mYw4-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;性能测试与数据分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="87.5" y="570" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Bgd83IEJGk7LeF5mYw4-13" value="综合抓取实验" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="177.5" y="720" width="95" height="30" as="geometry" />
+          <mxGeometry x="160" y="630" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Bgd83IEJGk7LeF5mYw4-14" value="论文编写" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="800" width="67.5" height="30" as="geometry" />
