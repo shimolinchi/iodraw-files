@@ -13,6 +13,16 @@
         <mxCell id="cveEDRFQKkeF_e7HjlV7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Bgd83IEJGk7LeF5mYw4-2" target="cveEDRFQKkeF_e7HjlV7-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cveEDRFQKkeF_e7HjlV7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Bgd83IEJGk7LeF5mYw4-2" target="4Bgd83IEJGk7LeF5mYw4-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="420" />
+              <mxPoint x="300" y="420" />
+              <mxPoint x="300" y="490" />
+              <mxPoint x="258" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4Bgd83IEJGk7LeF5mYw4-2" value="概念设计与方案选择" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="147.5" y="380" width="120" height="30" as="geometry" />
         </mxCell>
