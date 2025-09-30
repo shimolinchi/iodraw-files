@@ -72,8 +72,8 @@
         <mxCell id="cveEDRFQKkeF_e7HjlV7-2" value="材料选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cveEDRFQKkeF_e7HjlV7-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="cveEDRFQKkeF_e7HjlV7-15" value="结构优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="480" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
