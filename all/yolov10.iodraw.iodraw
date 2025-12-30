@@ -858,6 +858,12 @@
         <mxCell id="JtnsRvLa398vDod9wAjo-22" value="一对多头" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="635.01" y="666.25" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dFALUNkXKBnv1d1fig5q-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="zWnWDPcDZEXdmk-So9-S-153">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="-100" as="sourcePoint" />
+            <mxPoint x="730" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
