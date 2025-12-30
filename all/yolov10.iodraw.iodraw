@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="cyiHewSt8FQ-1BWRIlSp">
-    <mxGraphModel dx="3163" dy="2063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3447" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -605,7 +605,7 @@
           <mxGeometry x="480" y="96.81" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quoJso0n71NLoUuULTeD-4" value="并行通道注意力与&#xa;空间注意力分支" style="text;whiteSpace=wrap;fontSize=20;" parent="xGY9QPZjVFNNFfFeUs2B-10" vertex="1">
-          <mxGeometry x="1087.5100000000002" y="69" width="260" height="40" as="geometry" />
+          <mxGeometry x="1077.0000000000002" y="69" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quoJso0n71NLoUuULTeD-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;轻量下采样块&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.521;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="xGY9QPZjVFNNFfFeUs2B-10" source="zWnWDPcDZEXdmk-So9-S-131" target="zWnWDPcDZEXdmk-So9-S-125" edge="1">
           <mxGeometry x="-0.8566" y="588" relative="1" as="geometry">
