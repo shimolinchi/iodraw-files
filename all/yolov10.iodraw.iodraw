@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="cyiHewSt8FQ-1BWRIlSp">
-    <mxGraphModel dx="3020" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2451" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -756,7 +756,7 @@
           <mxGeometry x="1541.88" y="1066.25" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quoJso0n71NLoUuULTeD-2" value="C2f的跨阶段多分支机制与CIB&#xa;作为基本单元结合" style="text;whiteSpace=wrap;align=center;" parent="xGY9QPZjVFNNFfFeUs2B-10" vertex="1">
-          <mxGeometry x="556.88" y="119" width="170" height="40" as="geometry" />
+          <mxGeometry x="556.88" y="109" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quoJso0n71NLoUuULTeD-3" value="轻量卷积块" style="text;whiteSpace=wrap;" parent="xGY9QPZjVFNNFfFeUs2B-10" vertex="1">
           <mxGeometry x="858.15" y="109" width="90" height="40" as="geometry" />
