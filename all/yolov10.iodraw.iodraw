@@ -370,11 +370,6 @@
         <mxCell id="zWnWDPcDZEXdmk-So9-S-131" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3×3 DW&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="xGY9QPZjVFNNFfFeUs2B-10" vertex="1">
           <mxGeometry x="838.78" y="334" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zWnWDPcDZEXdmk-So9-S-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" parent="xGY9QPZjVFNNFfFeUs2B-10" target="zWnWDPcDZEXdmk-So9-S-128" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="-50.229885057471265" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="xGY9QPZjVFNNFfFeUs2B-10" source="zWnWDPcDZEXdmk-So9-S-134" target="zWnWDPcDZEXdmk-So9-S-129" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -608,9 +603,6 @@
         </mxCell>
         <mxCell id="quoJso0n71NLoUuULTeD-2" value="C2f的跨阶段多分支机制与CIB作为基本单元结合" style="text;whiteSpace=wrap;align=center;fontSize=18;" parent="xGY9QPZjVFNNFfFeUs2B-10" vertex="1">
           <mxGeometry x="495" y="96.81" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="quoJso0n71NLoUuULTeD-3" value="轻量卷积块" style="text;whiteSpace=wrap;fontSize=18;" parent="xGY9QPZjVFNNFfFeUs2B-10" vertex="1">
-          <mxGeometry x="838.78" y="90" width="114.98" height="40" as="geometry" />
         </mxCell>
         <mxCell id="quoJso0n71NLoUuULTeD-4" value="并行通道注意力与&#xa;空间注意力分支" style="text;whiteSpace=wrap;fontSize=18;" parent="xGY9QPZjVFNNFfFeUs2B-10" vertex="1">
           <mxGeometry x="1087.5100000000002" y="69" width="260" height="40" as="geometry" />
@@ -872,6 +864,9 @@
             </Array>
             <mxPoint x="1355" y="645" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="quoJso0n71NLoUuULTeD-3" value="轻量卷积块" style="text;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="490.01" y="-430" width="114.98" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
