@@ -854,6 +854,12 @@
         <mxCell id="JtnsRvLa398vDod9wAjo-22" value="一对多头" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" parent="xGY9QPZjVFNNFfFeUs2B-10" vertex="1">
           <mxGeometry x="1015.01" y="983.1299999999999" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dFALUNkXKBnv1d1fig5q-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xGY9QPZjVFNNFfFeUs2B-10" source="zWnWDPcDZEXdmk-So9-S-125" target="zWnWDPcDZEXdmk-So9-S-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="110" as="sourcePoint" />
+            <mxPoint x="900" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zWnWDPcDZEXdmk-So9-S-327" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=22;" parent="1" source="zWnWDPcDZEXdmk-So9-S-37" target="JtnsRvLa398vDod9wAjo-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1210.24" y="477.5" as="sourcePoint" />
