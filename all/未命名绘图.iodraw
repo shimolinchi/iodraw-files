@@ -109,10 +109,16 @@
           <mxGeometry x="930" y="510" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rlrPNqkqRMKKDfg1uux3-41" value="actor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="520" width="70" height="40" as="geometry" />
+          <mxGeometry x="840" y="650" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rlrPNqkqRMKKDfg1uux3-42" value="scene" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="520" width="70" height="40" as="geometry" />
+          <mxGeometry x="930" y="650" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-43" value="actor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="810" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-44" value="scene" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="810" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
