@@ -69,7 +69,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlrPNqkqRMKKDfg1uux3-32" value="(2)75%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rlrPNqkqRMKKDfg1uux3-18">
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-32" value="(2).75%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rlrPNqkqRMKKDfg1uux3-18">
           <mxGeometry x="0.0256" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlrPNqkqRMKKDfg1uux3-31" value="(2)25%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rlrPNqkqRMKKDfg1uux3-25">
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-31" value="(2).critic&amp;nbsp;&lt;div&gt;update&lt;div&gt;25%&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rlrPNqkqRMKKDfg1uux3-25">
           <mxGeometry x="-0.1714" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
