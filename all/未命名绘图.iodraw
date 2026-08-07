@@ -36,7 +36,7 @@
           <mxGeometry x="630" y="760" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rlrPNqkqRMKKDfg1uux3-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;GPU 1~6&lt;div&gt;(deformable worker)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="632.5" width="143" height="265" as="geometry" />
+          <mxGeometry x="820" y="632.5" width="200" height="265" as="geometry" />
         </mxCell>
         <mxCell id="rlrPNqkqRMKKDfg1uux3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="rlrPNqkqRMKKDfg1uux3-27" target="rlrPNqkqRMKKDfg1uux3-36">
           <mxGeometry relative="1" as="geometry" />
@@ -104,6 +104,15 @@
         </mxCell>
         <mxCell id="rlrPNqkqRMKKDfg1uux3-39" value="actor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="510" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-40" value="scene" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="510" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-41" value="actor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="520" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-42" value="scene" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="520" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
