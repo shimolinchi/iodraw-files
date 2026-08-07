@@ -77,8 +77,13 @@
         <mxCell id="rlrPNqkqRMKKDfg1uux3-20" value="25%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="680" y="630" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rlrPNqkqRMKKDfg1uux3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.976;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rlrPNqkqRMKKDfg1uux3-14" target="rlrPNqkqRMKKDfg1uux3-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rlrPNqkqRMKKDfg1uux3-14" target="rlrPNqkqRMKKDfg1uux3-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="630" />
+              <mxPoint x="605" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
