@@ -120,11 +120,11 @@
         <mxCell id="rlrPNqkqRMKKDfg1uux3-44" value="scene6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="810" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rlrPNqkqRMKKDfg1uux3-45" value="actor1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="660" width="70" height="40" as="geometry" />
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-45" value="actor2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="700" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rlrPNqkqRMKKDfg1uux3-46" value="scene1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="660" width="70" height="40" as="geometry" />
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-46" value="scene2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="700" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
