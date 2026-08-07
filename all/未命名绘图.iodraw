@@ -27,8 +27,11 @@
         <mxCell id="rlrPNqkqRMKKDfg1uux3-9" value="buffer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="670" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rlrPNqkqRMKKDfg1uux3-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="670" width="70" height="20" as="geometry" />
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rlrPNqkqRMKKDfg1uux3-10" target="rlrPNqkqRMKKDfg1uux3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-10" value="ppo transactions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
