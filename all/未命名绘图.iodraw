@@ -96,8 +96,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlrPNqkqRMKKDfg1uux3-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="767" y="525" width="143" height="75" as="geometry" />
+        <mxCell id="rlrPNqkqRMKKDfg1uux3-36" value="GPU 0 (rigid worker)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="490" width="143" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
