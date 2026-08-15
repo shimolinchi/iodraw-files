@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XqnIb2SKwHHkUE7hr21S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XqnIb2SKwHHkUE7hr21S-1" target="XqnIb2SKwHHkUE7hr21S-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XqnIb2SKwHHkUE7hr21S-1" value="frozen base policy&lt;div&gt;（obs185D)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
         </mxCell>
