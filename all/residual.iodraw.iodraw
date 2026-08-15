@@ -25,11 +25,8 @@
         <mxCell id="XqnIb2SKwHHkUE7hr21S-5" value="clamp(base+residual,-1,1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XqnIb2SKwHHkUE7hr21S-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XqnIb2SKwHHkUE7hr21S-8" target="XqnIb2SKwHHkUE7hr21S-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XqnIb2SKwHHkUE7hr21S-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;obs(226D)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="442.5" y="180" width="107.5" height="60" as="geometry" />
+          <mxGeometry x="430" y="180" width="127.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
