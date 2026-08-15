@@ -7,6 +7,12 @@
         <mxCell id="XqnIb2SKwHHkUE7hr21S-1" value="base policy&lt;div&gt;（obs185D)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XqnIb2SKwHHkUE7hr21S-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XqnIb2SKwHHkUE7hr21S-2" target="XqnIb2SKwHHkUE7hr21S-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XqnIb2SKwHHkUE7hr21S-2" value="PPO/TD3&lt;div&gt;base checkpoint&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
