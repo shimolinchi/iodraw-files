@@ -13,6 +13,9 @@
         <mxCell id="XqnIb2SKwHHkUE7hr21S-2" value="PPO/TD3&lt;div&gt;base checkpoint&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XqnIb2SKwHHkUE7hr21S-4" value="residual&lt;div&gt;(obs226D)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
