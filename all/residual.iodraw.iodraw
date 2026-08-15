@@ -22,6 +22,9 @@
         <mxCell id="XqnIb2SKwHHkUE7hr21S-4" value="residual&lt;div&gt;(obs226D)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XqnIb2SKwHHkUE7hr21S-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XqnIb2SKwHHkUE7hr21S-5" target="XqnIb2SKwHHkUE7hr21S-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XqnIb2SKwHHkUE7hr21S-5" value="clamp(base+residual,-1,1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="170" height="40" as="geometry" />
         </mxCell>
@@ -46,7 +49,7 @@
         <mxCell id="XqnIb2SKwHHkUE7hr21S-19" value="TD3 trainer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="535" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XqnIb2SKwHHkUE7hr21S-20" value="TD3 trainer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XqnIb2SKwHHkUE7hr21S-20" value="PPO adapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="535" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
