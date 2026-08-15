@@ -16,6 +16,9 @@
         <mxCell id="XqnIb2SKwHHkUE7hr21S-4" value="residual&lt;div&gt;(obs226D)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XqnIb2SKwHHkUE7hr21S-5" value="clamp(base+residual,-1,1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
