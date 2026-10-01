@@ -13,9 +13,6 @@
         <mxCell id="Cla2EVGvWhLi_zH3O-af-4" value="&lt;span style=&quot;color: rgb(205, 239, 217); font-family: -apple-system-body, ui-sans-serif, -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, sans-serif, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 16px; text-align: start; caret-color: rgb(221, 218, 213); white-space-collapse: preserve; background-color: rgb(35, 82, 40);&quot;&gt;\(h_t=\left[h_t^s\ ;\ \phi(t)h_t^f+(1-\phi(t))h^*\right]\)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cla2EVGvWhLi_zH3O-af-6" value="\(v\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="380" width="40" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
