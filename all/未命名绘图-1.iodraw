@@ -12,6 +12,11 @@
             <mxPoint x="-570" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="50zRDNZ4mG6j2oLlWpZ--9" value="C-RADIO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="50zRDNZ4mG6j2oLlWpZ--6">
+          <mxGeometry x="-0.2278" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="50zRDNZ4mG6j2oLlWpZ--1" value="finger eye" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-730" y="70" width="70" height="30" as="geometry" />
         </mxCell>
@@ -23,9 +28,6 @@
         </mxCell>
         <mxCell id="50zRDNZ4mG6j2oLlWpZ--7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="70" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="50zRDNZ4mG6j2oLlWpZ--8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-655" y="58" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
