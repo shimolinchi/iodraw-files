@@ -213,7 +213,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fqSx0-q9_EUy8Hozy4wR-51" value="tactile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-435" y="910" width="110" height="40" as="geometry" />
+          <mxGeometry x="-470" y="910" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
