@@ -20,7 +20,7 @@
         <mxCell id="50zRDNZ4mG6j2oLlWpZ--1" value="finger eye image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="70" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="50zRDNZ4mG6j2oLlWpZ--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="50zRDNZ4mG6j2oLlWpZ--2">
+        <mxCell id="50zRDNZ4mG6j2oLlWpZ--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="50zRDNZ4mG6j2oLlWpZ--2" target="50zRDNZ4mG6j2oLlWpZ--15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-480" y="90" as="targetPoint" />
           </mxGeometry>
@@ -45,7 +45,7 @@
           <mxGeometry x="-570" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="50zRDNZ4mG6j2oLlWpZ--15" value="concat" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="-450" y="60" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
