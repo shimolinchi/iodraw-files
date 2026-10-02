@@ -178,8 +178,8 @@
         <mxCell id="fqSx0-q9_EUy8Hozy4wR-39" value="wrist image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="740" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fqSx0-q9_EUy8Hozy4wR-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="fqSx0-q9_EUy8Hozy4wR-40" value="vision policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="740" width="105" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
