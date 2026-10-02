@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="kEt7r6_h1S8xMiOLJjwF">
-    <mxGraphModel dx="2134" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1307" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,14 +156,16 @@
             <mxPoint x="-630" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fqSx0-q9_EUy8Hozy4wR-35" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fqSx0-q9_EUy8Hozy4wR-31">
+          <mxGeometry x="-0.2463" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fqSx0-q9_EUy8Hozy4wR-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.227;exitY=-0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fqSx0-q9_EUy8Hozy4wR-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-760" y="550" as="sourcePoint" />
             <mxPoint x="-710" y="500" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fqSx0-q9_EUy8Hozy4wR-34" value="train" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-835" y="518" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
