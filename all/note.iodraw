@@ -92,8 +92,16 @@
         <mxCell id="fqSx0-q9_EUy8Hozy4wR-5" value="wrist image" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="210" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fqSx0-q9_EUy8Hozy4wR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fqSx0-q9_EUy8Hozy4wR-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="159.71428571428578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fqSx0-q9_EUy8Hozy4wR-8" value="action expert" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fqSx0-q9_EUy8Hozy4wR-12" value="action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="148" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
