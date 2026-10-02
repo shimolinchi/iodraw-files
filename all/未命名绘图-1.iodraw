@@ -26,7 +26,7 @@
         <mxCell id="50zRDNZ4mG6j2oLlWpZ--5" value="policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="50zRDNZ4mG6j2oLlWpZ--7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="50zRDNZ4mG6j2oLlWpZ--7" value="token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-570" y="70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
