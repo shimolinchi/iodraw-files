@@ -195,8 +195,8 @@
         <mxCell id="fqSx0-q9_EUy8Hozy4wR-45" value="action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-330" y="775" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fqSx0-q9_EUy8Hozy4wR-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-527.5" y="860" width="120" height="60" as="geometry" />
+        <mxCell id="fqSx0-q9_EUy8Hozy4wR-46" value="residual policy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="860" width="105" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
