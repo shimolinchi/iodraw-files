@@ -85,6 +85,9 @@
         <mxCell id="U-iahEfwMpNFWgZ3jT8G-9" value="局域网/vpn内其他主机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="900" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="U-iahEfwMpNFWgZ3jT8G-12" value="云计算服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
