@@ -51,10 +51,10 @@
           <mxGeometry x="390" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U-iahEfwMpNFWgZ3jT8G-1" value="数采主机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="700" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="U-iahEfwMpNFWgZ3jT8G-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="U-iahEfwMpNFWgZ3jT8G-2" value="机器人主机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="700" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
