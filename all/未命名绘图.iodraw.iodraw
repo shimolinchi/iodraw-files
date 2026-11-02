@@ -82,16 +82,16 @@
         <mxCell id="U-iahEfwMpNFWgZ3jT8G-8" value="运行部署页面服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="780" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U-iahEfwMpNFWgZ3jT8G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-iahEfwMpNFWgZ3jT8G-9" target="U-iahEfwMpNFWgZ3jT8G-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="U-iahEfwMpNFWgZ3jT8G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-iahEfwMpNFWgZ3jT8G-9" target="U-iahEfwMpNFWgZ3jT8G-8">
+        <mxCell id="U-iahEfwMpNFWgZ3jT8G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-iahEfwMpNFWgZ3jT8G-9" target="U-iahEfwMpNFWgZ3jT8G-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U-iahEfwMpNFWgZ3jT8G-13" value="访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U-iahEfwMpNFWgZ3jT8G-11">
           <mxGeometry x="-0.3991" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U-iahEfwMpNFWgZ3jT8G-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-iahEfwMpNFWgZ3jT8G-9" target="U-iahEfwMpNFWgZ3jT8G-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U-iahEfwMpNFWgZ3jT8G-9" value="局域网/vpn内其他主机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="900" width="150" height="60" as="geometry" />
